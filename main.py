@@ -140,9 +140,9 @@ if __name__ == "__main__":
     if not API_KEY:
         raise ValueError("NASA API Key not set up as environment variable")
     
-    fetch_multiple_apod_data(API_KEY, START_DATE, END_DATE)
-    analyze_apod_media()
-    write_csv()
+    # fetch_multiple_apod_data(API_KEY, START_DATE, END_DATE)
+    # analyze_apod_media()
+    # write_csv()
     
     ##### Testing ##### 
     # get_apod_data(API_KEY, START_DATE)
@@ -154,5 +154,26 @@ if __name__ == "__main__":
 
 # Problem 3 (18 Marks)
 
-arr = np.arange(100).reshape((20, 5))
-print(arr)
+array = np.random.randint(10, 101, size = (20, 5))
+
+print(array)
+# print(f"Rows: {array.shape[0]}\nColumns: {array.shape[1]}")
+
+# Checking if values in array are Even
+# print(np.where(array % 2 == 0, True, False))
+
+# Checking sum of the values across rows
+print(sum(array))
+# print(array.sum(0))
+print(np.where(array.sum(0) % 2 == 0, True, False))
+
+# if np.where(array.sum(0) % 2 == 0, True, False):
+#     array[-1] + 1
+
+print(np.any(array, where = (array.sum(0) % 2 == 0)))
+print(array[0][0])
+
+# if np.any(array, where = (array.sum(0) % 2 == 0)):
+    # print(np.all(array.item))
+# print(np.any(array, 0, where = (array.sum(0) % 2 == 0)))
+
