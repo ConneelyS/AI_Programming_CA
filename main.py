@@ -1,5 +1,6 @@
 import os, requests, json, csv, time
 import pandas as pd
+import numpy as np
 
 # Problem 1 (3 Marks)
 
@@ -132,9 +133,12 @@ def write_csv(json_filename="apod_data.json", csv_filename="apod_summary.csv"):
         print(f"Error writing to CSV file: {csvWriteError}")
 
 if __name__ == "__main__":
-    API_KEY = "REMOVED"
+    API_KEY = os.getenv("NASA_API_KEY")
     START_DATE = "2020-01-01"
     END_DATE = "2020-01-10"
+
+    if not API_KEY:
+        raise ValueError("NASA API Key not set up as environment variable")
     
     fetch_multiple_apod_data(API_KEY, START_DATE, END_DATE)
     analyze_apod_media()
@@ -146,6 +150,9 @@ if __name__ == "__main__":
     # read_apod_data(json_filename="apod_data.json")
     # analyze_apod_media()
     # write_csv()
-
+    # print(API_KEY)
 
 # Problem 3 (18 Marks)
+
+arr = np.arange(100).reshape((20, 5))
+print(arr)
