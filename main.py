@@ -373,9 +373,9 @@ print(f"Max Value: {sorted(max_list_values)[-1]}")
 
 # sns.lmplot(copy_df, x=x_axis, y=y_axis, hue="Species")
 
-sns.lmplot(data=copy_df, x="Petal Ratio", y="Sepal ratio", hue="Species")
-plt.xlabel("Petal Ratio")
-plt.ylabel("Sepal Ratio")
+# sns.lmplot(data=copy_df, x="Petal Ratio", y="Sepal ratio", hue="Species")
+# plt.xlabel("Petal Ratio")
+# plt.ylabel("Sepal Ratio")
 
 # scatter_plot = plt.scatter(x_axis, y_axis)
 
@@ -385,5 +385,7 @@ plt.ylabel("Sepal Ratio")
 # Calculating the Linear Regression using Numpy in order to overlay in over the scatterplot
 # m, b = np.polyfit(x_axis, y_axis, 1)
 # plt.plot(x_axis, m * x_axis + b, color='red')
+
+sns.pairplot(copy_df, hue='Species')
 
 plt.show()
