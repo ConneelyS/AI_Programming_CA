@@ -1,6 +1,8 @@
 import os, requests, json, csv, time
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 # Problem 1 (3 Marks)
 
@@ -64,6 +66,7 @@ def fetch_multiple_apod_data(api_key, start_date, end_date, json_filename="apod_
 
     except IOError as jsonWriteError:
         print(f"Error writing to JSON file: {jsonWriteError}")
+
 
 
 # Problem 2 (27 Marks)
@@ -153,6 +156,7 @@ if __name__ == "__main__":
     # print(API_KEY)
 
 
+
 ##### Problem 3 (18 Marks)
 
 array = np.random.randint(10, 101, size = (20, 5))
@@ -189,7 +193,7 @@ array[np.arange(20), random_odd] += odd_rows
 
 ## Checking total sum of NDArray
 array_sum_total = array.sum()
-print(array_sum_total)
+# print(array_sum_total)
 
 # Checking if array sum is divisible by 5
 array_modulo_remainder = array_sum_total % 5
@@ -202,3 +206,184 @@ column = np.random.randint(0, 5)
 # Subtracting the modulo remainder from the element picked at random to make the sum divisible 
 array[row, column] -= array_modulo_remainder
 array_new_sum_total = array_sum_total - array_modulo_remainder
+
+
+
+###### Problem 4 (22 Marks)
+# How many data points are there in this data set?
+# What are the data types of the columns?
+# What are the column names?
+# How many species of flower are included in the data? 
+
+df = pd.read_csv('iris.csv')
+# print(df.head())
+
+shape_of_data = df.shape
+# print(f"Data points: {shape_of_data[0]}")
+
+column_list = df.columns.tolist()
+# print(f"Column Names: {column_list}")
+
+# print(datatypes)
+# print(df.columns[0])
+
+datatypes = df.dtypes
+# for col in df.columns:
+    # print(f"{col} - {datatypes[col]}")
+
+# species_set = set(df.Species.to_list())
+# print(species_set)
+# print("\n")
+
+# Using 1-indexing the error is located in the 35th and 38th rows
+# Data must be changed at index 34 and 37 using iloc
+# print(df.iloc[34])
+# Sepal.Length       4.9
+# Sepal.Width        3.1
+# Petal.Length       1.5
+# Petal.Width        0.1
+# Species         setosa
+
+# print(df.iloc[37])
+# Sepal.Length       4.9
+# Sepal.Width        3.1
+# Petal.Length       1.5
+# Petal.Width        0.1
+# Species         setosa
+
+# series = df.iloc[37]
+
+# print(df.iloc[37])
+
+# print(series)
+
+# print(len(df.iloc[37]))
+# print(df.iloc[37])
+
+# print(df.iloc[37, 3])
+# Updating the value of row 37
+df.iloc[37, 3] = 0.2
+# print(df.iloc[37])
+
+# print(df.iloc[40]) 
+df.iloc[40] = [4.9, 3.6, 1.4, 0.1, 'setosa']
+# print(df.iloc[40]) 
+
+copy_df = df
+petal_ratio = copy_df['Petal.Width']
+print(petal_ratio)
+
+copy_df['Petal Ratio'] = copy_df['Petal.Length'] / copy_df['Petal.Width']
+copy_df['Sepal ratio'] = copy_df['Sepal.Length'] / copy_df['Sepal.Width']
+
+print(copy_df.head())
+# copy_df.to_csv("iris_corrected.csv", index=False)
+
+# print(copy_df.iloc[40])
+
+data_correlation = copy_df.corr(numeric_only=True)
+print(data_correlation)
+
+# Mask used to remove mirrored data from the correlation visualisation
+mask = np.triu(np.ones_like(data_correlation, dtype=bool))
+# sns.heatmap(data_correlation, cmap='viridis', vmin=-1, vmax=1, center=0, annot=True, square=True, linewidths=.5, mask=mask)
+# plt.show()
+
+print("##############")
+# all_correlation_value = data_correlation
+# highest_pairwise_correlation = 
+# print(data_correlation.min())
+# print(data_correlation.max())
+
+# flattened_values = []
+
+# data_correlation.to_numpy()
+# print(type(data_correlation.to_numpy()))
+
+data_correlation_copy = data_correlation
+np.fill_diagonal(data_correlation_copy.values, np.nan)
+print(data_correlation_copy)
+
+# sns.heatmap(data_correlation_copy, cmap='viridis', vmin=-1, vmax=1, center=0, annot=True, square=True, linewidths=.5, mask=mask)
+# plt.show()
+
+### Calculating the Min and Max values for the correlation matrix
+# Calculating .max() value will not work as expected due to diagonal correlations = 1
+# Flattening the correlation data into a list to sort and get new max value below 1
+
+# print(f"Min: {data_correlation_copy.min()}\nMax: {data_correlation_copy.max()}")
+
+# print(flattened_values < 1)
+# new_values = []
+# new_values.append(flattened_values < 1)
+
+# for x in new_values:
+#     print(x)
+
+
+
+
+
+# list_correlation_values = np.eye(data_correlation.shape[0], dtype=bool)
+# no_diagonal_correlation_values = data_correlation.where(~list_correlation_values).stack()
+
+# min_correlation_value = data_correlation_copy.min()
+# max_correlation_value = data_correlation_copy.max()
+
+
+
+min_list_values = list(data_correlation_copy.min())
+# print(min_list_values)
+# print(sorted(min_list_values))
+print(f"Min Value: {sorted(min_list_values)[-1]}")
+
+max_list_values = list(data_correlation_copy.max())
+# print(max_list_values)
+# print(sorted(max_list_values))
+print(f"Max Value: {sorted(max_list_values)[-1]}")
+
+# for x in min_list_values:
+#     print(x)
+
+# sorted_list = min_list_values.sort()
+
+# print(sorted_list)
+
+
+# min_correlation_value.to_list()
+# max_correlation_value.to_list()
+
+# print(min_correlation_value)
+# print(max_correlation_value)
+
+# print(min_correlation_value, max_correlation_value)
+# for x in data_correlation.to_numpy():
+#     print(x)
+
+# numpy_data = data_correlation.to_numpy()
+# print(numpy_data)
+# highest_value = numpy_data.max()
+# print(highest_value)
+
+
+# Scatter Plot for Ratio Values
+
+# x_axis = copy_df['Petal Ratio']
+# y_axis = copy_df['Sepal ratio']
+
+# sns.lmplot(copy_df, x=x_axis, y=y_axis, hue="Species")
+
+sns.lmplot(data=copy_df, x="Petal Ratio", y="Sepal ratio", hue="Species")
+plt.xlabel("Petal Ratio")
+plt.ylabel("Sepal Ratio")
+
+# scatter_plot = plt.scatter(x_axis, y_axis)
+
+# sns.scatterplot(copy_df, x=x_axis, y=y_axis, hue="Species")
+# sns.regplot(copy_df, x=x_axis, y=y_axis)
+
+# Calculating the Linear Regression using Numpy in order to overlay in over the scatterplot
+# m, b = np.polyfit(x_axis, y_axis, 1)
+# plt.plot(x_axis, m * x_axis + b, color='red')
+
+plt.show()
