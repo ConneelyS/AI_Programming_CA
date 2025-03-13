@@ -203,10 +203,21 @@ array_modulo_remainder = array_sum_total % 5
 row = np.random.randint(0, 20)
 column = np.random.randint(0, 5)
 
+# print(array[row, column])
 # Subtracting the modulo remainder from the element picked at random to make the sum divisible 
 array[row, column] -= array_modulo_remainder
 array_new_sum_total = array_sum_total - array_modulo_remainder
 
+array_list = array.tolist()
+# new_list = []
+
+for x in array_list: 
+    for y in x:
+        if (y % 3 == 0) & (y % 5 == 0):
+            # new_list.append(y)
+            print(y)
+        
+# print(new_list)
 
 
 ###### Problem 4 (22 Marks)
@@ -271,25 +282,25 @@ df.iloc[40] = [4.9, 3.6, 1.4, 0.1, 'setosa']
 
 copy_df = df
 petal_ratio = copy_df['Petal.Width']
-print(petal_ratio)
+# print(petal_ratio)
 
 copy_df['Petal Ratio'] = copy_df['Petal.Length'] / copy_df['Petal.Width']
 copy_df['Sepal ratio'] = copy_df['Sepal.Length'] / copy_df['Sepal.Width']
 
-print(copy_df.head())
+# print(copy_df.head())
 # copy_df.to_csv("iris_corrected.csv", index=False)
 
 # print(copy_df.iloc[40])
 
 data_correlation = copy_df.corr(numeric_only=True)
-print(data_correlation)
+# print(data_correlation)
 
 # Mask used to remove mirrored data from the correlation visualisation
 mask = np.triu(np.ones_like(data_correlation, dtype=bool))
 # sns.heatmap(data_correlation, cmap='viridis', vmin=-1, vmax=1, center=0, annot=True, square=True, linewidths=.5, mask=mask)
 # plt.show()
 
-print("##############")
+# print("##############")
 # all_correlation_value = data_correlation
 # highest_pairwise_correlation = 
 # print(data_correlation.min())
@@ -302,7 +313,7 @@ print("##############")
 
 data_correlation_copy = data_correlation
 np.fill_diagonal(data_correlation_copy.values, np.nan)
-print(data_correlation_copy)
+# print(data_correlation_copy)
 
 # sns.heatmap(data_correlation_copy, cmap='viridis', vmin=-1, vmax=1, center=0, annot=True, square=True, linewidths=.5, mask=mask)
 # plt.show()
@@ -335,12 +346,12 @@ print(data_correlation_copy)
 min_list_values = list(data_correlation_copy.min())
 # print(min_list_values)
 # print(sorted(min_list_values))
-print(f"Min Value: {sorted(min_list_values)[-1]}")
+# print(f"Min Value: {sorted(min_list_values)[-1]}")
 
 max_list_values = list(data_correlation_copy.max())
 # print(max_list_values)
 # print(sorted(max_list_values))
-print(f"Max Value: {sorted(max_list_values)[-1]}")
+# print(f"Max Value: {sorted(max_list_values)[-1]}")
 
 # for x in min_list_values:
 #     print(x)
@@ -388,4 +399,4 @@ print(f"Max Value: {sorted(max_list_values)[-1]}")
 
 sns.pairplot(copy_df, hue='Species')
 
-plt.show()
+# plt.show()
