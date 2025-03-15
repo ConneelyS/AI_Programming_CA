@@ -15,4 +15,4 @@ Problem 4 can be found in problem_4.py
 ## Running main.py script
 1.  START_DATE and END_DATE constants must be initialised before running the script - dates must match %Y-%m-%d format
 2.  Date range is required to make API calls to the NASA Open API
-3.  
+3.  Valid date range must be followed or error will be thrown. Date range (1995-06-16 - today)

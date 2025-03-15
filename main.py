@@ -84,8 +84,6 @@ def fetch_multiple_apod_data(api_key, start_date, end_date, json_file="apod_data
     except IOError as jsonWriteError:
         print(f"Error writing to JSON file: {jsonWriteError}")
 
-
-
 # Problem 2 (27 Marks)
 
 # This is function reads the data from the json file and stores it in a python dict
@@ -118,8 +116,11 @@ def read_apod_data(json_filename="apod_data.json"):
         # Returns empty list to the analyze_apod_media() if exception is thrown
     return []
 
+# Moved this code snippet to a seperate method to remove the issue of json content printing twice
 def print_json_content():
+    # Reading json file content
     json_file_content_data = read_apod_data()
+    # Looping through list and printing 'date' and 'title' from each element
     for entry in json_file_content_data:
             print(f"Date: {entry['date']}, Title: {entry['title']}")
 
@@ -195,8 +196,8 @@ def main():
     # Setting some constants for the script.
     # Editing the date range here will allow for API to call different dates
     API_KEY = os.getenv("NASA_API_KEY")
-    START_DATE = "2012-12-12"
-    END_DATE = "2012-12-20"
+    START_DATE = "2016-06-01"
+    END_DATE = "2016-07-16"
 
     # Error is API key isn't found
     if not API_KEY:
