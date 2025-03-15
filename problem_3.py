@@ -6,84 +6,106 @@ import seaborn as sns
 
 ##### Problem 3 (18 Marks)
 
-array = np.random.randint(10, 101, size = (20, 5))
+def generate_random_array():
+    array = np.random.randint(10, 101, size = (20, 5))
+    return array
 
-## Print the full NDArray
-print(f"INITAL NUMPY ARRAY GENERATED\n{array}")
+def get_array_shape(array):
+    array_shape = array.shape
+    return array_shape
 
-## Printing the shape of the NDArray (rows, columns)
-print(f"Rows: {array.shape[0]}\nColumns: {array.shape[1]}")
+def adjust_rows_to_even(array):
+    # Storing sum total for each row in array
+    row_sum_total = array.sum(1)
 
-## Printing the sum of each row in the NDArray
-## Checking the sum for each row using axis=1
-# print(array.sum(1))
+    # Boolean mask for each row sum that is odd or even
+    odd_rows = row_sum_total % 2 
 
-row_sum_total = array.sum(1) # Returns a NDArray containing the sum of each row in array
-# print(row_sum_total)
+    # Selects a random int between low=0 and high=5 and stores in NDArray of length 20
+    random_odd = np.random.randint(0, 5, size = 20)
 
-odd_rows = row_sum_total % 2 # Returns a boolean mask NDArray for each row sum that is odd or even
-# print(odd_rows)
+    array[np.arange(20), random_odd] += odd_rows
+    # array[x, y] += odd_rows(1 OR 0)
+    # [0, 3] if odd + 1
+    # [1, 2] if odd + 1
+    # [2, 1] if even + 0
+    # [3, 3] if even + 0
+    # Numpy uses efficient broadcasting to avoid using IF statments
 
-random_odd = np.random.randint(0, 5, size = 20) # Selects a random int between low=0 and high=5 and stores in NDArray of length 20
-# print(random_odd)
+def get_array_total(array):
+    array_sum_total = array.sum()
+    return array_sum_total
 
-array[np.arange(20), random_odd] += odd_rows
-# array[x, y] += odd_rows(1 OR 0)
-# [0, 3] if odd + 1
-# [1, 2] if odd + 1
-# [2, 1] if even + 0
-# [3, 3] if even + 0
-# Numpy uses efficient broadcasting to avoid using IF statments
+def adjust_sum_total(array):
+    # Checking if array sum is divisible by 5
+    array_modulo_remainder = array_sum_total % 5
 
-## Checking total sum of NDArray
-array_sum_total = array.sum()
-print(f"\nSum total of array values: {array_sum_total}")
+    # Picking a random element in the inital NDArray to adjust the value of
+    row = np.random.randint(0, 20)
+    column = np.random.randint(0, 5)
 
-# Checking if array sum is divisible by 5
-array_modulo_remainder = array_sum_total % 5
-# print(f"Remaining: {array_modulo_remainder}")
+    # Subtracting the modulo remainder from the element picked at random to make the sum divisible 
+    array[row, column] -= array_modulo_remainder
+    array_new_sum_total = array_sum_total - array_modulo_remainder
 
-# Picking a random element in the inital NDArray to adjust the value of
-row = np.random.randint(0, 20)
-column = np.random.randint(0, 5)
+    return array_new_sum_total
 
-# print(array[row, column])
-# Subtracting the modulo remainder from the element picked at random to make the sum divisible 
-array[row, column] -= array_modulo_remainder
-array_new_sum_total = array_sum_total - array_modulo_remainder
+def divisable_5_and_3(array):
+    # Creating a Boolean Mask for values % 5 and 3 == 0
+    mask = (array % 5 == 0) & (array % 3 == 0)
+    return mask
 
-# import timeit
+def replace_with_mean(array):
+    # Replace elements > 75 by the mean for entire array
+    # mean_of_array = array.mean()
 
-# Work done using Array Indexing and Loops
-# new_list = []
-# for x in array_list: 
-#     for y in x:
-#         if (y % 3 == 0) & (y % 5 == 0):
-#             new_list.append(y)
-# print(f"Divisable by 5 and 3: {new_list}")
+    array[array > 75] = array.mean()
+    # print(f"NUMPY ARRAY VALUES OVER 75 REPLACED BY MEAN\n{array}")
 
-# Work completed using Numpy Vectorised NDArrays and Boolean Indexing instead of Loops
-# Tested the execution speed of numpy vs loops and numpy was faster every time
-mask = (array % 5 == 0) & (array % 3 == 0)
-print(f"Divisable by 5 and 3: {array[mask]}")
+    over_75_bool_mask = array > 75
+    return over_75_bool_mask
 
-# Replace elements > 75 by the mean for entire array
-mean_of_array = array.mean()
-print(f"\nMean of array: {mean_of_array}")
+def get_standard_dev(array):
+    standard_deviation = np.std(array)
+    return standard_deviation
 
-# Checking the array before replacement operation
-# print(array)
+def get_mean(array):
+    mean_value = np.mean(array)
+    return mean_value
 
-array[array > 75] = array.mean()
-print(f"NUMPY ARRAY VALUES OVER 75 REPLACED BY MEAN\n{array}")
+def get_median(array):
+    median_value = np.median(array)
+    return median_value
 
-over_75_bool_mask = array > 75
-# print(over_75_bool_mask)
+# Calling methods
+array = generate_random_array()
+array_shape = get_array_shape(array)
+array_sum_total = get_array_total(array)
+div_mask = divisable_5_and_3(array)
+over_75_bool_mask_2 = replace_with_mean(array)
+array_new_sum_total = adjust_sum_total(array)
+standard_deviation = get_standard_dev(array)
+mean_value = get_mean(array)
+median_value = get_median(array)
 
-standard_deviation = np.std(array)
-mean_value = np.mean(array)
-median_value = np.median(array)
+# Print the full NDArray
+# print(f"INITAL NUMPY ARRAY GENERATED\n{array}")
 
+# Printing the shape of the NDArray (rows, columns)
+print(f"Array Shape\nRows: {array_shape[0]}\nColumns: {array_shape[1]}")
+
+# Printing sum total of the array after adjusting values to multiples of 5 and all rows to be even
+array_sum_total = get_array_total(array)
+print(f"\nSum total of array values: {array_new_sum_total}")
+
+# Printing values that are divisable by 5 and 3
+print(f"Divisable by 5 and 3: {array[div_mask]}")
+
+# Checking for any values in the array over 75
+print(f"\n{array}")
+print(f"Values > 75 = {over_75_bool_mask_2.any(where=array > 75)}")
+
+# Printing the statistical operations
 print(f"\nPERFORMING STATISTICAL OPERATIONS")
 print(f"Standard Deviation: {standard_deviation}")
 print(f"Mean: {mean_value}")

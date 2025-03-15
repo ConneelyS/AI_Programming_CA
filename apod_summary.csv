@@ -9,3 +9,982 @@ Date,Title,Media Type,URL
 2020-01-08,Galaxies in the River,image,https://apod.nasa.gov/apod/image/2001/NGC1532-final3_1024r.jpg
 2020-01-09,Perihelion to Aphelion,image,https://apod.nasa.gov/apod/image/2001/peri-api-sun1024.jpg
 2020-01-10,Nacreous Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2001/NacreousPMHeden.jpg
+2020-01-01,Betelgeuse Imagined,image,https://apod.nasa.gov/apod/image/2001/BetelgeuseImagined_EsoCalcada_960.jpg
+2020-01-02,The Fainting of Betelgeuse,image,https://apod.nasa.gov/apod/image/2001/OrionTrees123019Westlake1024.jpg
+2020-01-03,Quadrantids over the Great Wall,image,https://apod.nasa.gov/apod/image/2001/QuadrantidsChineseGreatWall_1067.jpg
+2020-01-04,Aurora Slathers Up the Sky,image,https://apod.nasa.gov/apod/image/2001/aurora_iss052e007857_1024.jpg
+2020-01-05,A Starry Night of Iceland,image,https://apod.nasa.gov/apod/image/2001/aurora_vetter_1080.jpg
+2020-01-06,Tumultuous Clouds of Jupiter,image,https://apod.nasa.gov/apod/image/2001/JupiterClouds_JunoGill_960.jpg
+2020-01-07,IC 405: The Flaming Star Nebula,image,https://apod.nasa.gov/apod/image/2001/IC405hp_ColesHelm_960.jpg
+2020-01-08,Galaxies in the River,image,https://apod.nasa.gov/apod/image/2001/NGC1532-final3_1024r.jpg
+2020-01-09,Perihelion to Aphelion,image,https://apod.nasa.gov/apod/image/2001/peri-api-sun1024.jpg
+2020-01-10,Nacreous Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2001/NacreousPMHeden.jpg
+2025-03-01,Blue Ghost to the Moon,image,https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg
+2024-06-01,Stereo Helene,image,https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg
+2024-06-02,Rotating Moon from LRO,video,https://www.youtube.com/embed/sNUNB6CMnE8?rel=0
+2024-06-03,NGC 2403 in Camelopardalis,image,https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+2024-06-04,Comet Pons-Brooks Develops Opposing Tails,image,https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg
+2024-06-05,Shadow of a Martian Robot,image,https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
+2024-06-06,NGC 4565: Galaxy on Edge,image,https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg
+2024-06-07,SH2-308: The Dolphin Head Nebula,image,https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg
+2024-06-08,Pandora's Cluster of Galaxies,image,https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png
+2024-06-09,How to Identify that Light in the Sky,image,https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg
+2024-06-10,Sh2-132: The Lion Nebula,image,https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg
+2024-06-11,Colorful Stars and Clouds near Rho Ophiuchi,image,https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg
+2024-06-12,Aurora over Karkonosze Mountains,image,https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg
+2024-06-13,Messier 66 Close Up,image,https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg
+2024-06-14,RCW 85,image,https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg
+2024-06-15,Prominences and Filaments on the Active Sun,image,https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg
+2024-06-16,Animation: Black Hole Destroys Star,video,https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
+2024-06-17,Ou4: The Giant Squid Nebula,image,https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg
+2024-06-18,Gigantic Jets over Himalayan Mountains,image,https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_960.jpg
+2024-06-19,NGC 6188: Dragons of Ara,image,https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg
+2024-06-20,Sandy and the Moon Halo,image,https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg
+2024-06-21,Hubble's NGC 1546,image,https://apod.nasa.gov/apod/image/2406/NGC1546compassHST1024.jpg
+2024-06-22,Lynds Dark Nebula 1251,image,https://apod.nasa.gov/apod/image/2406/LDN1251_1098c.png
+2024-06-23,The Colors of Saturn from Cassini,image,https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg
+2024-06-24,JADES-GS-z14-0: A New Farthest Object,image,https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg
+2024-06-25,The Dark Doodad Nebula,image,https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg
+2024-06-26,"Timelapse: Aurora, SAR, and the Milky Way",video,https://www.youtube.com/embed/fisAZYNwDgk?rel=0
+2024-06-27,Protostellar Outflows in Serpens,image,https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png
+2024-06-28,Comet 13P/Olbers,image,https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg
+2024-06-29,A Solstice Moon,image,https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg
+2024-06-30,Earthrise: A Video Reconstruction,video,https://www.youtube.com/embed/1R5QqhPq1Ik?rel=0
+2024-07-01,Time Spiral,image,https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg
+2024-07-02,NGC 602: Oyster Star Cluster,image,https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg
+2024-07-03,M83: Star Streams and a Thousand Rubies,image,https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg
+2024-07-04,A Beautiful Trifid,image,https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg
+2024-07-05,Mount Etna Milky Way,image,https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__1024pix.jpg
+2024-07-06,NGC 7789: Caroline's Rose,image,https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg
+2024-07-07,Iridescent Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg
+2024-07-08,Exoplanet Zoo: Other Stars,image,https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg
+2024-07-09,Noctilucent Clouds over Florida,image,https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg
+2024-07-10,A Sagittarius Triplet,image,https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg
+2024-07-11,Globular Cluster Omega Centauri,image,https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg
+2024-07-12,Jones-Emberson 1,image,https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg
+2024-07-13,Solar System Family Portrait,image,https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg
+2024-07-14,Meteor Misses Galaxy,image,https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg
+2024-07-15,The Tadpole Galaxy from Hubble,image,https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg
+2024-07-16,Cometary Globules,image,https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg
+2024-07-17,Villarrica Volcano Against the Sky,video,https://www.youtube.com/embed/aX4ozspTPQY?rel=0
+2024-07-18,Messier 24: Sagittarius Star Cloud,image,https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg
+2024-07-19,Anticrepuscular Rays at the Planet Festival,image,https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg
+2024-07-20,Apollo 11 Landing Panorama,image,https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg
+2024-07-21,King of Wings Hoodoo under the Milky Way,image,https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_960.jpg
+2024-07-22,Chamaeleon Dark Nebulas,image,https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_960.jpg
+2024-07-23,The Crab Nebula from Visible to X-Ray,image,https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg
+2024-07-24,Exaggerated Moon,image,https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_960.jpg
+2024-07-25,NGC 7023: The Iris Nebula,image,https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg
+2024-07-26,Facing NGC 6946,image,https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg
+2024-07-27,Saturn at the Moon's Edge,image,https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+2024-07-28,Sun Dance,video,https://www.youtube.com/embed/hQFEHH5E69s?rel=0
+2024-07-29,Milky Way over Uluru,image,https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg
+2024-07-30,Arp 142: Interacting Galaxies from Webb,image,https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
+2024-07-31,Leopard Spots on Martian Rocks,image,https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_960.jpg
+2024-08-01,Comet Olbers over Kunetice Castle,image,https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
+2024-08-02,Mars Passing By,image,https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg
+2024-08-03,Glory and Fog Bow,image,https://apod.nasa.gov/apod/image/2408/GloryFog_label.png
+2024-08-04,Gaia: Here Comes the Sun,video,https://www.youtube.com/embed/XORui0wFKnE?rel=0
+2024-08-05,Milky Way Over Tunisia,image,https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg
+2024-08-06,Storm Cloud Over Texas,image,https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg
+2024-08-07,Milky Way Behind Three Merlons,image,https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg
+2024-08-08,Periodic Comet Swift-Tuttle,image,https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+2024-08-09,A Perseid Below,image,https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg
+2024-08-10,"The Light, Dark, and Dusty Trifid",image,https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg
+2024-08-11,Animation: Perseid Meteor Shower,video,https://www.meteorshowers.org/view/perseids
+2024-08-12,Perseid Meteors over Stonehenge,image,https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg
+2024-08-13,Giant Jet from the International Space Station,image,https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg
+2024-08-14,Meteors and Aurora over Germany,image,https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg
+2024-08-15,Late Night Vallentuna,image,https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg
+2024-08-16,Meteor Borealis,image,https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg
+2024-08-17,Sky Full of Arcs,image,https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg
+2024-08-18,A Solar Prominence Eruption from SDO,video,https://www.youtube.com/embed/PBL1RBj-P1g?rel=0
+2024-08-19,IC 5146: The Cocoon Nebula,image,https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg
+2024-08-20,Supermoon Beyond the Temple of Poseidon,image,https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg
+2024-08-21,Fermi's 12-year All-Sky Gamma-ray Map,image,https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg
+2024-08-22,The Dark Tower in Scorpius,image,https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg
+2024-08-23,Supernova Remnant CTA 1,image,https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg
+2024-08-24,South Pacific Shadowset,image,https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin1060.jpg
+2024-08-25,Fresh Tiger Stripes on Saturn's Enceladus,image,https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg
+2024-08-26,Perseid Meteors Over Inner Mongolia,video,https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0
+2024-08-27,Moon Eclipses Saturn,image,https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg
+2024-08-28,Tulip Nebula and Black Hole Cygnus X-1,image,https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg
+2024-08-29,Star Factory Messier 17,image,https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg
+2024-08-30,Southern Moonscape,image,https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek1024c.jpg
+2024-08-31,IFN and the NGC 7771 Group,image,https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel_1024.jpg
+2024-09-01,The Moon Dressed Like Saturn,image,https://apod.nasa.gov/apod/image/2409/SaturnMoon_Sojuel_960.jpg
+2020-01-01,Betelgeuse Imagined,image,https://apod.nasa.gov/apod/image/2001/BetelgeuseImagined_EsoCalcada_960.jpg
+2020-01-02,The Fainting of Betelgeuse,image,https://apod.nasa.gov/apod/image/2001/OrionTrees123019Westlake1024.jpg
+2020-01-03,Quadrantids over the Great Wall,image,https://apod.nasa.gov/apod/image/2001/QuadrantidsChineseGreatWall_1067.jpg
+2020-01-04,Aurora Slathers Up the Sky,image,https://apod.nasa.gov/apod/image/2001/aurora_iss052e007857_1024.jpg
+2020-01-05,A Starry Night of Iceland,image,https://apod.nasa.gov/apod/image/2001/aurora_vetter_1080.jpg
+2020-01-06,Tumultuous Clouds of Jupiter,image,https://apod.nasa.gov/apod/image/2001/JupiterClouds_JunoGill_960.jpg
+2020-01-07,IC 405: The Flaming Star Nebula,image,https://apod.nasa.gov/apod/image/2001/IC405hp_ColesHelm_960.jpg
+2020-01-08,Galaxies in the River,image,https://apod.nasa.gov/apod/image/2001/NGC1532-final3_1024r.jpg
+2020-01-09,Perihelion to Aphelion,image,https://apod.nasa.gov/apod/image/2001/peri-api-sun1024.jpg
+2020-01-10,Nacreous Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2001/NacreousPMHeden.jpg
+2025-03-01,Blue Ghost to the Moon,image,https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg
+2024-06-01,Stereo Helene,image,https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg
+2024-06-02,Rotating Moon from LRO,video,https://www.youtube.com/embed/sNUNB6CMnE8?rel=0
+2024-06-03,NGC 2403 in Camelopardalis,image,https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+2024-06-04,Comet Pons-Brooks Develops Opposing Tails,image,https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg
+2024-06-05,Shadow of a Martian Robot,image,https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
+2024-06-06,NGC 4565: Galaxy on Edge,image,https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg
+2024-06-07,SH2-308: The Dolphin Head Nebula,image,https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg
+2024-06-08,Pandora's Cluster of Galaxies,image,https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png
+2024-06-09,How to Identify that Light in the Sky,image,https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg
+2024-06-10,Sh2-132: The Lion Nebula,image,https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg
+2024-06-11,Colorful Stars and Clouds near Rho Ophiuchi,image,https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg
+2024-06-12,Aurora over Karkonosze Mountains,image,https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg
+2024-06-13,Messier 66 Close Up,image,https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg
+2024-06-14,RCW 85,image,https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg
+2024-06-15,Prominences and Filaments on the Active Sun,image,https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg
+2024-06-16,Animation: Black Hole Destroys Star,video,https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
+2024-06-17,Ou4: The Giant Squid Nebula,image,https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg
+2024-06-18,Gigantic Jets over Himalayan Mountains,image,https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_960.jpg
+2024-06-19,NGC 6188: Dragons of Ara,image,https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg
+2024-06-20,Sandy and the Moon Halo,image,https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg
+2024-06-21,Hubble's NGC 1546,image,https://apod.nasa.gov/apod/image/2406/NGC1546compassHST1024.jpg
+2024-06-22,Lynds Dark Nebula 1251,image,https://apod.nasa.gov/apod/image/2406/LDN1251_1098c.png
+2024-06-23,The Colors of Saturn from Cassini,image,https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg
+2024-06-24,JADES-GS-z14-0: A New Farthest Object,image,https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg
+2024-06-25,The Dark Doodad Nebula,image,https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg
+2024-06-26,"Timelapse: Aurora, SAR, and the Milky Way",video,https://www.youtube.com/embed/fisAZYNwDgk?rel=0
+2024-06-27,Protostellar Outflows in Serpens,image,https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png
+2024-06-28,Comet 13P/Olbers,image,https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg
+2024-06-29,A Solstice Moon,image,https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg
+2024-06-30,Earthrise: A Video Reconstruction,video,https://www.youtube.com/embed/1R5QqhPq1Ik?rel=0
+2024-07-01,Time Spiral,image,https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg
+2024-07-02,NGC 602: Oyster Star Cluster,image,https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg
+2024-07-03,M83: Star Streams and a Thousand Rubies,image,https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg
+2024-07-04,A Beautiful Trifid,image,https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg
+2024-07-05,Mount Etna Milky Way,image,https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__1024pix.jpg
+2024-07-06,NGC 7789: Caroline's Rose,image,https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg
+2024-07-07,Iridescent Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg
+2024-07-08,Exoplanet Zoo: Other Stars,image,https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg
+2024-07-09,Noctilucent Clouds over Florida,image,https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg
+2024-07-10,A Sagittarius Triplet,image,https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg
+2024-07-11,Globular Cluster Omega Centauri,image,https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg
+2024-07-12,Jones-Emberson 1,image,https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg
+2024-07-13,Solar System Family Portrait,image,https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg
+2024-07-14,Meteor Misses Galaxy,image,https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg
+2024-07-15,The Tadpole Galaxy from Hubble,image,https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg
+2024-07-16,Cometary Globules,image,https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg
+2024-07-17,Villarrica Volcano Against the Sky,video,https://www.youtube.com/embed/aX4ozspTPQY?rel=0
+2024-07-18,Messier 24: Sagittarius Star Cloud,image,https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg
+2024-07-19,Anticrepuscular Rays at the Planet Festival,image,https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg
+2024-07-20,Apollo 11 Landing Panorama,image,https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg
+2024-07-21,King of Wings Hoodoo under the Milky Way,image,https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_960.jpg
+2024-07-22,Chamaeleon Dark Nebulas,image,https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_960.jpg
+2024-07-23,The Crab Nebula from Visible to X-Ray,image,https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg
+2024-07-24,Exaggerated Moon,image,https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_960.jpg
+2024-07-25,NGC 7023: The Iris Nebula,image,https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg
+2024-07-26,Facing NGC 6946,image,https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg
+2024-07-27,Saturn at the Moon's Edge,image,https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+2024-07-28,Sun Dance,video,https://www.youtube.com/embed/hQFEHH5E69s?rel=0
+2024-07-29,Milky Way over Uluru,image,https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg
+2024-07-30,Arp 142: Interacting Galaxies from Webb,image,https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
+2024-07-31,Leopard Spots on Martian Rocks,image,https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_960.jpg
+2024-08-01,Comet Olbers over Kunetice Castle,image,https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
+2024-08-02,Mars Passing By,image,https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg
+2024-08-03,Glory and Fog Bow,image,https://apod.nasa.gov/apod/image/2408/GloryFog_label.png
+2024-08-04,Gaia: Here Comes the Sun,video,https://www.youtube.com/embed/XORui0wFKnE?rel=0
+2024-08-05,Milky Way Over Tunisia,image,https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg
+2024-08-06,Storm Cloud Over Texas,image,https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg
+2024-08-07,Milky Way Behind Three Merlons,image,https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg
+2024-08-08,Periodic Comet Swift-Tuttle,image,https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+2024-08-09,A Perseid Below,image,https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg
+2024-08-10,"The Light, Dark, and Dusty Trifid",image,https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg
+2024-08-11,Animation: Perseid Meteor Shower,video,https://www.meteorshowers.org/view/perseids
+2024-08-12,Perseid Meteors over Stonehenge,image,https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg
+2024-08-13,Giant Jet from the International Space Station,image,https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg
+2024-08-14,Meteors and Aurora over Germany,image,https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg
+2024-08-15,Late Night Vallentuna,image,https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg
+2024-08-16,Meteor Borealis,image,https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg
+2024-08-17,Sky Full of Arcs,image,https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg
+2024-08-18,A Solar Prominence Eruption from SDO,video,https://www.youtube.com/embed/PBL1RBj-P1g?rel=0
+2024-08-19,IC 5146: The Cocoon Nebula,image,https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg
+2024-08-20,Supermoon Beyond the Temple of Poseidon,image,https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg
+2024-08-21,Fermi's 12-year All-Sky Gamma-ray Map,image,https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg
+2024-08-22,The Dark Tower in Scorpius,image,https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg
+2024-08-23,Supernova Remnant CTA 1,image,https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg
+2024-08-24,South Pacific Shadowset,image,https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin1060.jpg
+2024-08-25,Fresh Tiger Stripes on Saturn's Enceladus,image,https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg
+2024-08-26,Perseid Meteors Over Inner Mongolia,video,https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0
+2024-08-27,Moon Eclipses Saturn,image,https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg
+2024-08-28,Tulip Nebula and Black Hole Cygnus X-1,image,https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg
+2024-08-29,Star Factory Messier 17,image,https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg
+2024-08-30,Southern Moonscape,image,https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek1024c.jpg
+2024-08-31,IFN and the NGC 7771 Group,image,https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel_1024.jpg
+2024-09-01,The Moon Dressed Like Saturn,image,https://apod.nasa.gov/apod/image/2409/SaturnMoon_Sojuel_960.jpg
+1995-10-01,Central Galactic Star Bursts,image,https://apod.nasa.gov/apod/image/ngc253_hst.gif
+1995-10-02,Phobos: Doomed Moon of Mars,image,https://apod.nasa.gov/apod/image/phobos.gif
+1995-10-03,Deimos: A Small Martian Moon,image,https://apod.nasa.gov/apod/image/deimos.gif
+1995-10-04,The Sun Spews X-rays,image,https://apod.nasa.gov/apod/image/sun_yohkoh.gif
+1995-10-05,CG4: A Ruptured Cometary Globule,image,https://apod.nasa.gov/apod/image/cg4_aat.gif
+1995-10-06,Dark Bok Globules in IC 2944,image,https://apod.nasa.gov/apod/image/bokglob_aat.gif
+1995-10-07,Apollo 12's Lunar Module Descends,image,https://apod.nasa.gov/apod/image/descend_ap12.gif
+1995-10-08,Apollo 12 Visits Surveyor 3,image,https://apod.nasa.gov/apod/image/survey_ap12.gif
+1995-10-09,Saturn's Moon Dione,image,https://apod.nasa.gov/apod/image/dione_vg1.gif
+1995-10-10,Dione's Lagrange Moon Helene,image,https://apod.nasa.gov/apod/image/helene_vg2.gif
+1995-10-11,LMC Star Clouds,image,https://apod.nasa.gov/apod/image/lmcstars_uit.gif
+1995-10-12,HH-47 Star Jet,image,https://apod.nasa.gov/apod/image/starjets_hst.gif
+1995-10-13,"Jupiter, Io, and Ganymede's Shadow",image,https://apod.nasa.gov/apod/image/jupiterio_vg1.gif
+1995-10-14,Rhea: Saturn's Second Largest Moon,image,https://apod.nasa.gov/apod/image/rhea_vg1.gif
+1995-10-15,Iapetus: Saturn's Disappearing Moon,image,https://apod.nasa.gov/apod/image/iapetus_vg1.gif
+2020-01-01,Betelgeuse Imagined,image,https://apod.nasa.gov/apod/image/2001/BetelgeuseImagined_EsoCalcada_960.jpg
+2020-01-02,The Fainting of Betelgeuse,image,https://apod.nasa.gov/apod/image/2001/OrionTrees123019Westlake1024.jpg
+2020-01-03,Quadrantids over the Great Wall,image,https://apod.nasa.gov/apod/image/2001/QuadrantidsChineseGreatWall_1067.jpg
+2020-01-04,Aurora Slathers Up the Sky,image,https://apod.nasa.gov/apod/image/2001/aurora_iss052e007857_1024.jpg
+2020-01-05,A Starry Night of Iceland,image,https://apod.nasa.gov/apod/image/2001/aurora_vetter_1080.jpg
+2020-01-06,Tumultuous Clouds of Jupiter,image,https://apod.nasa.gov/apod/image/2001/JupiterClouds_JunoGill_960.jpg
+2020-01-07,IC 405: The Flaming Star Nebula,image,https://apod.nasa.gov/apod/image/2001/IC405hp_ColesHelm_960.jpg
+2020-01-08,Galaxies in the River,image,https://apod.nasa.gov/apod/image/2001/NGC1532-final3_1024r.jpg
+2020-01-09,Perihelion to Aphelion,image,https://apod.nasa.gov/apod/image/2001/peri-api-sun1024.jpg
+2020-01-10,Nacreous Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2001/NacreousPMHeden.jpg
+2025-03-01,Blue Ghost to the Moon,image,https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg
+2024-06-01,Stereo Helene,image,https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg
+2024-06-02,Rotating Moon from LRO,video,https://www.youtube.com/embed/sNUNB6CMnE8?rel=0
+2024-06-03,NGC 2403 in Camelopardalis,image,https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+2024-06-04,Comet Pons-Brooks Develops Opposing Tails,image,https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg
+2024-06-05,Shadow of a Martian Robot,image,https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
+2024-06-06,NGC 4565: Galaxy on Edge,image,https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg
+2024-06-07,SH2-308: The Dolphin Head Nebula,image,https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg
+2024-06-08,Pandora's Cluster of Galaxies,image,https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png
+2024-06-09,How to Identify that Light in the Sky,image,https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg
+2024-06-10,Sh2-132: The Lion Nebula,image,https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg
+2024-06-11,Colorful Stars and Clouds near Rho Ophiuchi,image,https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg
+2024-06-12,Aurora over Karkonosze Mountains,image,https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg
+2024-06-13,Messier 66 Close Up,image,https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg
+2024-06-14,RCW 85,image,https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg
+2024-06-15,Prominences and Filaments on the Active Sun,image,https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg
+2024-06-16,Animation: Black Hole Destroys Star,video,https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
+2024-06-17,Ou4: The Giant Squid Nebula,image,https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg
+2024-06-18,Gigantic Jets over Himalayan Mountains,image,https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_960.jpg
+2024-06-19,NGC 6188: Dragons of Ara,image,https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg
+2024-06-20,Sandy and the Moon Halo,image,https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg
+2024-06-21,Hubble's NGC 1546,image,https://apod.nasa.gov/apod/image/2406/NGC1546compassHST1024.jpg
+2024-06-22,Lynds Dark Nebula 1251,image,https://apod.nasa.gov/apod/image/2406/LDN1251_1098c.png
+2024-06-23,The Colors of Saturn from Cassini,image,https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg
+2024-06-24,JADES-GS-z14-0: A New Farthest Object,image,https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg
+2024-06-25,The Dark Doodad Nebula,image,https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg
+2024-06-26,"Timelapse: Aurora, SAR, and the Milky Way",video,https://www.youtube.com/embed/fisAZYNwDgk?rel=0
+2024-06-27,Protostellar Outflows in Serpens,image,https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png
+2024-06-28,Comet 13P/Olbers,image,https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg
+2024-06-29,A Solstice Moon,image,https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg
+2024-06-30,Earthrise: A Video Reconstruction,video,https://www.youtube.com/embed/1R5QqhPq1Ik?rel=0
+2024-07-01,Time Spiral,image,https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg
+2024-07-02,NGC 602: Oyster Star Cluster,image,https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg
+2024-07-03,M83: Star Streams and a Thousand Rubies,image,https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg
+2024-07-04,A Beautiful Trifid,image,https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg
+2024-07-05,Mount Etna Milky Way,image,https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__1024pix.jpg
+2024-07-06,NGC 7789: Caroline's Rose,image,https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg
+2024-07-07,Iridescent Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg
+2024-07-08,Exoplanet Zoo: Other Stars,image,https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg
+2024-07-09,Noctilucent Clouds over Florida,image,https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg
+2024-07-10,A Sagittarius Triplet,image,https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg
+2024-07-11,Globular Cluster Omega Centauri,image,https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg
+2024-07-12,Jones-Emberson 1,image,https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg
+2024-07-13,Solar System Family Portrait,image,https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg
+2024-07-14,Meteor Misses Galaxy,image,https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg
+2024-07-15,The Tadpole Galaxy from Hubble,image,https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg
+2024-07-16,Cometary Globules,image,https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg
+2024-07-17,Villarrica Volcano Against the Sky,video,https://www.youtube.com/embed/aX4ozspTPQY?rel=0
+2024-07-18,Messier 24: Sagittarius Star Cloud,image,https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg
+2024-07-19,Anticrepuscular Rays at the Planet Festival,image,https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg
+2024-07-20,Apollo 11 Landing Panorama,image,https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg
+2024-07-21,King of Wings Hoodoo under the Milky Way,image,https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_960.jpg
+2024-07-22,Chamaeleon Dark Nebulas,image,https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_960.jpg
+2024-07-23,The Crab Nebula from Visible to X-Ray,image,https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg
+2024-07-24,Exaggerated Moon,image,https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_960.jpg
+2024-07-25,NGC 7023: The Iris Nebula,image,https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg
+2024-07-26,Facing NGC 6946,image,https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg
+2024-07-27,Saturn at the Moon's Edge,image,https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+2024-07-28,Sun Dance,video,https://www.youtube.com/embed/hQFEHH5E69s?rel=0
+2024-07-29,Milky Way over Uluru,image,https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg
+2024-07-30,Arp 142: Interacting Galaxies from Webb,image,https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
+2024-07-31,Leopard Spots on Martian Rocks,image,https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_960.jpg
+2024-08-01,Comet Olbers over Kunetice Castle,image,https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
+2024-08-02,Mars Passing By,image,https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg
+2024-08-03,Glory and Fog Bow,image,https://apod.nasa.gov/apod/image/2408/GloryFog_label.png
+2024-08-04,Gaia: Here Comes the Sun,video,https://www.youtube.com/embed/XORui0wFKnE?rel=0
+2024-08-05,Milky Way Over Tunisia,image,https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg
+2024-08-06,Storm Cloud Over Texas,image,https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg
+2024-08-07,Milky Way Behind Three Merlons,image,https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg
+2024-08-08,Periodic Comet Swift-Tuttle,image,https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+2024-08-09,A Perseid Below,image,https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg
+2024-08-10,"The Light, Dark, and Dusty Trifid",image,https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg
+2024-08-11,Animation: Perseid Meteor Shower,video,https://www.meteorshowers.org/view/perseids
+2024-08-12,Perseid Meteors over Stonehenge,image,https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg
+2024-08-13,Giant Jet from the International Space Station,image,https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg
+2024-08-14,Meteors and Aurora over Germany,image,https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg
+2024-08-15,Late Night Vallentuna,image,https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg
+2024-08-16,Meteor Borealis,image,https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg
+2024-08-17,Sky Full of Arcs,image,https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg
+2024-08-18,A Solar Prominence Eruption from SDO,video,https://www.youtube.com/embed/PBL1RBj-P1g?rel=0
+2024-08-19,IC 5146: The Cocoon Nebula,image,https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg
+2024-08-20,Supermoon Beyond the Temple of Poseidon,image,https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg
+2024-08-21,Fermi's 12-year All-Sky Gamma-ray Map,image,https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg
+2024-08-22,The Dark Tower in Scorpius,image,https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg
+2024-08-23,Supernova Remnant CTA 1,image,https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg
+2024-08-24,South Pacific Shadowset,image,https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin1060.jpg
+2024-08-25,Fresh Tiger Stripes on Saturn's Enceladus,image,https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg
+2024-08-26,Perseid Meteors Over Inner Mongolia,video,https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0
+2024-08-27,Moon Eclipses Saturn,image,https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg
+2024-08-28,Tulip Nebula and Black Hole Cygnus X-1,image,https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg
+2024-08-29,Star Factory Messier 17,image,https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg
+2024-08-30,Southern Moonscape,image,https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek1024c.jpg
+2024-08-31,IFN and the NGC 7771 Group,image,https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel_1024.jpg
+2024-09-01,The Moon Dressed Like Saturn,image,https://apod.nasa.gov/apod/image/2409/SaturnMoon_Sojuel_960.jpg
+1995-10-01,Central Galactic Star Bursts,image,https://apod.nasa.gov/apod/image/ngc253_hst.gif
+1995-10-02,Phobos: Doomed Moon of Mars,image,https://apod.nasa.gov/apod/image/phobos.gif
+1995-10-03,Deimos: A Small Martian Moon,image,https://apod.nasa.gov/apod/image/deimos.gif
+1995-10-04,The Sun Spews X-rays,image,https://apod.nasa.gov/apod/image/sun_yohkoh.gif
+1995-10-05,CG4: A Ruptured Cometary Globule,image,https://apod.nasa.gov/apod/image/cg4_aat.gif
+1995-10-06,Dark Bok Globules in IC 2944,image,https://apod.nasa.gov/apod/image/bokglob_aat.gif
+1995-10-07,Apollo 12's Lunar Module Descends,image,https://apod.nasa.gov/apod/image/descend_ap12.gif
+1995-10-08,Apollo 12 Visits Surveyor 3,image,https://apod.nasa.gov/apod/image/survey_ap12.gif
+1995-10-09,Saturn's Moon Dione,image,https://apod.nasa.gov/apod/image/dione_vg1.gif
+1995-10-10,Dione's Lagrange Moon Helene,image,https://apod.nasa.gov/apod/image/helene_vg2.gif
+1995-10-11,LMC Star Clouds,image,https://apod.nasa.gov/apod/image/lmcstars_uit.gif
+1995-10-12,HH-47 Star Jet,image,https://apod.nasa.gov/apod/image/starjets_hst.gif
+1995-10-13,"Jupiter, Io, and Ganymede's Shadow",image,https://apod.nasa.gov/apod/image/jupiterio_vg1.gif
+1995-10-14,Rhea: Saturn's Second Largest Moon,image,https://apod.nasa.gov/apod/image/rhea_vg1.gif
+1995-10-15,Iapetus: Saturn's Disappearing Moon,image,https://apod.nasa.gov/apod/image/iapetus_vg1.gif
+2004-08-20,Raining Perseids,image,https://apod.nasa.gov/apod/image/0408/perseidMeteors_bruenjes_c1.jpg
+2004-08-21,Solar Sail,image,https://apod.nasa.gov/apod/image/0408/solarsail_msfc.jpg
+2004-08-22,Earth at Night,image,https://apod.nasa.gov/apod/image/0208/earthlights02_dmsp.jpg
+2004-08-23,Looking Out Over Mars,image,https://apod.nasa.gov/apod/image/0408/hills2_spirit.jpg
+2004-08-24,Supply Ship Approaches the Space Station,image,https://apod.nasa.gov/apod/image/0408/supply_iss.jpg
+2004-08-25,Zodiacal Light and the False Dawn,image,https://apod.nasa.gov/apod/image/0408/zodiacal_seip_unlabelled.jpg
+2020-01-01,Betelgeuse Imagined,image,https://apod.nasa.gov/apod/image/2001/BetelgeuseImagined_EsoCalcada_960.jpg
+2020-01-02,The Fainting of Betelgeuse,image,https://apod.nasa.gov/apod/image/2001/OrionTrees123019Westlake1024.jpg
+2020-01-03,Quadrantids over the Great Wall,image,https://apod.nasa.gov/apod/image/2001/QuadrantidsChineseGreatWall_1067.jpg
+2020-01-04,Aurora Slathers Up the Sky,image,https://apod.nasa.gov/apod/image/2001/aurora_iss052e007857_1024.jpg
+2020-01-05,A Starry Night of Iceland,image,https://apod.nasa.gov/apod/image/2001/aurora_vetter_1080.jpg
+2020-01-06,Tumultuous Clouds of Jupiter,image,https://apod.nasa.gov/apod/image/2001/JupiterClouds_JunoGill_960.jpg
+2020-01-07,IC 405: The Flaming Star Nebula,image,https://apod.nasa.gov/apod/image/2001/IC405hp_ColesHelm_960.jpg
+2020-01-08,Galaxies in the River,image,https://apod.nasa.gov/apod/image/2001/NGC1532-final3_1024r.jpg
+2020-01-09,Perihelion to Aphelion,image,https://apod.nasa.gov/apod/image/2001/peri-api-sun1024.jpg
+2020-01-10,Nacreous Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2001/NacreousPMHeden.jpg
+2025-03-01,Blue Ghost to the Moon,image,https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg
+2024-06-01,Stereo Helene,image,https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg
+2024-06-02,Rotating Moon from LRO,video,https://www.youtube.com/embed/sNUNB6CMnE8?rel=0
+2024-06-03,NGC 2403 in Camelopardalis,image,https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+2024-06-04,Comet Pons-Brooks Develops Opposing Tails,image,https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg
+2024-06-05,Shadow of a Martian Robot,image,https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
+2024-06-06,NGC 4565: Galaxy on Edge,image,https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg
+2024-06-07,SH2-308: The Dolphin Head Nebula,image,https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg
+2024-06-08,Pandora's Cluster of Galaxies,image,https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png
+2024-06-09,How to Identify that Light in the Sky,image,https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg
+2024-06-10,Sh2-132: The Lion Nebula,image,https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg
+2024-06-11,Colorful Stars and Clouds near Rho Ophiuchi,image,https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg
+2024-06-12,Aurora over Karkonosze Mountains,image,https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg
+2024-06-13,Messier 66 Close Up,image,https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg
+2024-06-14,RCW 85,image,https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg
+2024-06-15,Prominences and Filaments on the Active Sun,image,https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg
+2024-06-16,Animation: Black Hole Destroys Star,video,https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
+2024-06-17,Ou4: The Giant Squid Nebula,image,https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg
+2024-06-18,Gigantic Jets over Himalayan Mountains,image,https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_960.jpg
+2024-06-19,NGC 6188: Dragons of Ara,image,https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg
+2024-06-20,Sandy and the Moon Halo,image,https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg
+2024-06-21,Hubble's NGC 1546,image,https://apod.nasa.gov/apod/image/2406/NGC1546compassHST1024.jpg
+2024-06-22,Lynds Dark Nebula 1251,image,https://apod.nasa.gov/apod/image/2406/LDN1251_1098c.png
+2024-06-23,The Colors of Saturn from Cassini,image,https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg
+2024-06-24,JADES-GS-z14-0: A New Farthest Object,image,https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg
+2024-06-25,The Dark Doodad Nebula,image,https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg
+2024-06-26,"Timelapse: Aurora, SAR, and the Milky Way",video,https://www.youtube.com/embed/fisAZYNwDgk?rel=0
+2024-06-27,Protostellar Outflows in Serpens,image,https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png
+2024-06-28,Comet 13P/Olbers,image,https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg
+2024-06-29,A Solstice Moon,image,https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg
+2024-06-30,Earthrise: A Video Reconstruction,video,https://www.youtube.com/embed/1R5QqhPq1Ik?rel=0
+2024-07-01,Time Spiral,image,https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg
+2024-07-02,NGC 602: Oyster Star Cluster,image,https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg
+2024-07-03,M83: Star Streams and a Thousand Rubies,image,https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg
+2024-07-04,A Beautiful Trifid,image,https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg
+2024-07-05,Mount Etna Milky Way,image,https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__1024pix.jpg
+2024-07-06,NGC 7789: Caroline's Rose,image,https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg
+2024-07-07,Iridescent Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg
+2024-07-08,Exoplanet Zoo: Other Stars,image,https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg
+2024-07-09,Noctilucent Clouds over Florida,image,https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg
+2024-07-10,A Sagittarius Triplet,image,https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg
+2024-07-11,Globular Cluster Omega Centauri,image,https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg
+2024-07-12,Jones-Emberson 1,image,https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg
+2024-07-13,Solar System Family Portrait,image,https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg
+2024-07-14,Meteor Misses Galaxy,image,https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg
+2024-07-15,The Tadpole Galaxy from Hubble,image,https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg
+2024-07-16,Cometary Globules,image,https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg
+2024-07-17,Villarrica Volcano Against the Sky,video,https://www.youtube.com/embed/aX4ozspTPQY?rel=0
+2024-07-18,Messier 24: Sagittarius Star Cloud,image,https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg
+2024-07-19,Anticrepuscular Rays at the Planet Festival,image,https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg
+2024-07-20,Apollo 11 Landing Panorama,image,https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg
+2024-07-21,King of Wings Hoodoo under the Milky Way,image,https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_960.jpg
+2024-07-22,Chamaeleon Dark Nebulas,image,https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_960.jpg
+2024-07-23,The Crab Nebula from Visible to X-Ray,image,https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg
+2024-07-24,Exaggerated Moon,image,https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_960.jpg
+2024-07-25,NGC 7023: The Iris Nebula,image,https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg
+2024-07-26,Facing NGC 6946,image,https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg
+2024-07-27,Saturn at the Moon's Edge,image,https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+2024-07-28,Sun Dance,video,https://www.youtube.com/embed/hQFEHH5E69s?rel=0
+2024-07-29,Milky Way over Uluru,image,https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg
+2024-07-30,Arp 142: Interacting Galaxies from Webb,image,https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
+2024-07-31,Leopard Spots on Martian Rocks,image,https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_960.jpg
+2024-08-01,Comet Olbers over Kunetice Castle,image,https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
+2024-08-02,Mars Passing By,image,https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg
+2024-08-03,Glory and Fog Bow,image,https://apod.nasa.gov/apod/image/2408/GloryFog_label.png
+2024-08-04,Gaia: Here Comes the Sun,video,https://www.youtube.com/embed/XORui0wFKnE?rel=0
+2024-08-05,Milky Way Over Tunisia,image,https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg
+2024-08-06,Storm Cloud Over Texas,image,https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg
+2024-08-07,Milky Way Behind Three Merlons,image,https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg
+2024-08-08,Periodic Comet Swift-Tuttle,image,https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+2024-08-09,A Perseid Below,image,https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg
+2024-08-10,"The Light, Dark, and Dusty Trifid",image,https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg
+2024-08-11,Animation: Perseid Meteor Shower,video,https://www.meteorshowers.org/view/perseids
+2024-08-12,Perseid Meteors over Stonehenge,image,https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg
+2024-08-13,Giant Jet from the International Space Station,image,https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg
+2024-08-14,Meteors and Aurora over Germany,image,https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg
+2024-08-15,Late Night Vallentuna,image,https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg
+2024-08-16,Meteor Borealis,image,https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg
+2024-08-17,Sky Full of Arcs,image,https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg
+2024-08-18,A Solar Prominence Eruption from SDO,video,https://www.youtube.com/embed/PBL1RBj-P1g?rel=0
+2024-08-19,IC 5146: The Cocoon Nebula,image,https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg
+2024-08-20,Supermoon Beyond the Temple of Poseidon,image,https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg
+2024-08-21,Fermi's 12-year All-Sky Gamma-ray Map,image,https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg
+2024-08-22,The Dark Tower in Scorpius,image,https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg
+2024-08-23,Supernova Remnant CTA 1,image,https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg
+2024-08-24,South Pacific Shadowset,image,https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin1060.jpg
+2024-08-25,Fresh Tiger Stripes on Saturn's Enceladus,image,https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg
+2024-08-26,Perseid Meteors Over Inner Mongolia,video,https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0
+2024-08-27,Moon Eclipses Saturn,image,https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg
+2024-08-28,Tulip Nebula and Black Hole Cygnus X-1,image,https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg
+2024-08-29,Star Factory Messier 17,image,https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg
+2024-08-30,Southern Moonscape,image,https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek1024c.jpg
+2024-08-31,IFN and the NGC 7771 Group,image,https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel_1024.jpg
+2024-09-01,The Moon Dressed Like Saturn,image,https://apod.nasa.gov/apod/image/2409/SaturnMoon_Sojuel_960.jpg
+1995-10-01,Central Galactic Star Bursts,image,https://apod.nasa.gov/apod/image/ngc253_hst.gif
+1995-10-02,Phobos: Doomed Moon of Mars,image,https://apod.nasa.gov/apod/image/phobos.gif
+1995-10-03,Deimos: A Small Martian Moon,image,https://apod.nasa.gov/apod/image/deimos.gif
+1995-10-04,The Sun Spews X-rays,image,https://apod.nasa.gov/apod/image/sun_yohkoh.gif
+1995-10-05,CG4: A Ruptured Cometary Globule,image,https://apod.nasa.gov/apod/image/cg4_aat.gif
+1995-10-06,Dark Bok Globules in IC 2944,image,https://apod.nasa.gov/apod/image/bokglob_aat.gif
+1995-10-07,Apollo 12's Lunar Module Descends,image,https://apod.nasa.gov/apod/image/descend_ap12.gif
+1995-10-08,Apollo 12 Visits Surveyor 3,image,https://apod.nasa.gov/apod/image/survey_ap12.gif
+1995-10-09,Saturn's Moon Dione,image,https://apod.nasa.gov/apod/image/dione_vg1.gif
+1995-10-10,Dione's Lagrange Moon Helene,image,https://apod.nasa.gov/apod/image/helene_vg2.gif
+1995-10-11,LMC Star Clouds,image,https://apod.nasa.gov/apod/image/lmcstars_uit.gif
+1995-10-12,HH-47 Star Jet,image,https://apod.nasa.gov/apod/image/starjets_hst.gif
+1995-10-13,"Jupiter, Io, and Ganymede's Shadow",image,https://apod.nasa.gov/apod/image/jupiterio_vg1.gif
+1995-10-14,Rhea: Saturn's Second Largest Moon,image,https://apod.nasa.gov/apod/image/rhea_vg1.gif
+1995-10-15,Iapetus: Saturn's Disappearing Moon,image,https://apod.nasa.gov/apod/image/iapetus_vg1.gif
+2004-08-20,Raining Perseids,image,https://apod.nasa.gov/apod/image/0408/perseidMeteors_bruenjes_c1.jpg
+2004-08-21,Solar Sail,image,https://apod.nasa.gov/apod/image/0408/solarsail_msfc.jpg
+2004-08-22,Earth at Night,image,https://apod.nasa.gov/apod/image/0208/earthlights02_dmsp.jpg
+2004-08-23,Looking Out Over Mars,image,https://apod.nasa.gov/apod/image/0408/hills2_spirit.jpg
+2004-08-24,Supply Ship Approaches the Space Station,image,https://apod.nasa.gov/apod/image/0408/supply_iss.jpg
+2004-08-25,Zodiacal Light and the False Dawn,image,https://apod.nasa.gov/apod/image/0408/zodiacal_seip_unlabelled.jpg
+2006-04-20,A Dust Cloud in NGC 281,image,https://apod.nasa.gov/apod/image/0604/n281_hst.jpg
+2006-04-21,NGC 253: Dusty Island Universe,image,https://apod.nasa.gov/apod/image/0604/ngc253_gabany_c55.jpg
+2006-04-22,Z is for Mars,image,https://apod.nasa.gov/apod/image/0604/Mars2005_6_tezel_c51.jpg
+2006-04-23,The Solar Spectrum,image,https://apod.nasa.gov/apod/image/0604/solarspectrum_noao_big.jpg
+2006-04-24,Star Clouds over Arizona,image,https://apod.nasa.gov/apod/image/0604/cloudsclouds_beinert_big.jpg
+2006-04-25,M82: Galaxy with a Supergalactic Wind,image,https://apod.nasa.gov/apod/image/0604/cigar_hst.jpg
+2006-04-26,Crumbling Comet Schwassmann-Wachmann 3 Approaches,image,https://apod.nasa.gov/apod/image/0604/cometsw_eso.jpg
+2006-04-27,NGC 4696: Energy from a Black Hole,image,https://apod.nasa.gov/apod/image/0604/ngc4696_compCXC_f.jpg
+2006-04-28,NGC 7635: Bubble in a Cosmic Sea,image,https://apod.nasa.gov/apod/image/0604/ngc7635_ddemartin_c.jpg
+2006-04-29,Skylab Over Earth,image,https://apod.nasa.gov/apod/image/0604/skylab_nasa.jpg
+2006-04-30,1006 AD: Supernova in the Sky,image,https://apod.nasa.gov/apod/image/0604/sn1006_tezel.jpg
+2006-05-01,Open Cluster NGC 290: A Stellar Jewel Box,image,https://apod.nasa.gov/apod/image/0605/ngc290_hst.jpg
+2006-05-02,Sunspot 875 Flares,image,https://apod.nasa.gov/apod/image/0605/sunspot0875_piepol.jpg
+2006-05-03,Saturn in Blue and Gold,image,https://apod.nasa.gov/apod/image/0605/saturn4_cassini.jpg
+2006-05-04,Schwassmann-Wachmann 3: Fragment B,image,https://apod.nasa.gov/apod/image/0605/fragb_73p_hst_c.jpg
+2006-05-05,Jupiter and the Red Spots,image,https://apod.nasa.gov/apod/image/0605/redspot2_hst_c68.jpg
+2006-05-06,Three Galaxies in Draco,image,https://apod.nasa.gov/apod/image/0605/draco3_heutz_f50.jpg
+2006-05-07,NGC 2440: Cocoon of a New White Dwarf,image,https://apod.nasa.gov/apod/image/0605/ngc2440_hst4.jpg
+2006-05-08,Descent Panorama of Saturn's Titan,image,https://apod.nasa.gov/apod/image/0605/titan5km_huygens.jpg
+2006-05-09,Rock Slab Growing at Mt. St. Helens Volcano,image,https://apod.nasa.gov/apod/image/0605/slabsthelens_usgs.jpg
+2006-05-10,The Large Cloud of Magellan,image,https://apod.nasa.gov/apod/image/0605/lmc_whw.jpg
+2020-01-01,Betelgeuse Imagined,image,https://apod.nasa.gov/apod/image/2001/BetelgeuseImagined_EsoCalcada_960.jpg
+2020-01-02,The Fainting of Betelgeuse,image,https://apod.nasa.gov/apod/image/2001/OrionTrees123019Westlake1024.jpg
+2020-01-03,Quadrantids over the Great Wall,image,https://apod.nasa.gov/apod/image/2001/QuadrantidsChineseGreatWall_1067.jpg
+2020-01-04,Aurora Slathers Up the Sky,image,https://apod.nasa.gov/apod/image/2001/aurora_iss052e007857_1024.jpg
+2020-01-05,A Starry Night of Iceland,image,https://apod.nasa.gov/apod/image/2001/aurora_vetter_1080.jpg
+2020-01-06,Tumultuous Clouds of Jupiter,image,https://apod.nasa.gov/apod/image/2001/JupiterClouds_JunoGill_960.jpg
+2020-01-07,IC 405: The Flaming Star Nebula,image,https://apod.nasa.gov/apod/image/2001/IC405hp_ColesHelm_960.jpg
+2020-01-08,Galaxies in the River,image,https://apod.nasa.gov/apod/image/2001/NGC1532-final3_1024r.jpg
+2020-01-09,Perihelion to Aphelion,image,https://apod.nasa.gov/apod/image/2001/peri-api-sun1024.jpg
+2020-01-10,Nacreous Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2001/NacreousPMHeden.jpg
+2025-03-01,Blue Ghost to the Moon,image,https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg
+2024-06-01,Stereo Helene,image,https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg
+2024-06-02,Rotating Moon from LRO,video,https://www.youtube.com/embed/sNUNB6CMnE8?rel=0
+2024-06-03,NGC 2403 in Camelopardalis,image,https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+2024-06-04,Comet Pons-Brooks Develops Opposing Tails,image,https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg
+2024-06-05,Shadow of a Martian Robot,image,https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
+2024-06-06,NGC 4565: Galaxy on Edge,image,https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg
+2024-06-07,SH2-308: The Dolphin Head Nebula,image,https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg
+2024-06-08,Pandora's Cluster of Galaxies,image,https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png
+2024-06-09,How to Identify that Light in the Sky,image,https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg
+2024-06-10,Sh2-132: The Lion Nebula,image,https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg
+2024-06-11,Colorful Stars and Clouds near Rho Ophiuchi,image,https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg
+2024-06-12,Aurora over Karkonosze Mountains,image,https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg
+2024-06-13,Messier 66 Close Up,image,https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg
+2024-06-14,RCW 85,image,https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg
+2024-06-15,Prominences and Filaments on the Active Sun,image,https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg
+2024-06-16,Animation: Black Hole Destroys Star,video,https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
+2024-06-17,Ou4: The Giant Squid Nebula,image,https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg
+2024-06-18,Gigantic Jets over Himalayan Mountains,image,https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_960.jpg
+2024-06-19,NGC 6188: Dragons of Ara,image,https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg
+2024-06-20,Sandy and the Moon Halo,image,https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg
+2024-06-21,Hubble's NGC 1546,image,https://apod.nasa.gov/apod/image/2406/NGC1546compassHST1024.jpg
+2024-06-22,Lynds Dark Nebula 1251,image,https://apod.nasa.gov/apod/image/2406/LDN1251_1098c.png
+2024-06-23,The Colors of Saturn from Cassini,image,https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg
+2024-06-24,JADES-GS-z14-0: A New Farthest Object,image,https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg
+2024-06-25,The Dark Doodad Nebula,image,https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg
+2024-06-26,"Timelapse: Aurora, SAR, and the Milky Way",video,https://www.youtube.com/embed/fisAZYNwDgk?rel=0
+2024-06-27,Protostellar Outflows in Serpens,image,https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png
+2024-06-28,Comet 13P/Olbers,image,https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg
+2024-06-29,A Solstice Moon,image,https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg
+2024-06-30,Earthrise: A Video Reconstruction,video,https://www.youtube.com/embed/1R5QqhPq1Ik?rel=0
+2024-07-01,Time Spiral,image,https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg
+2024-07-02,NGC 602: Oyster Star Cluster,image,https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg
+2024-07-03,M83: Star Streams and a Thousand Rubies,image,https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg
+2024-07-04,A Beautiful Trifid,image,https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg
+2024-07-05,Mount Etna Milky Way,image,https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__1024pix.jpg
+2024-07-06,NGC 7789: Caroline's Rose,image,https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg
+2024-07-07,Iridescent Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg
+2024-07-08,Exoplanet Zoo: Other Stars,image,https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg
+2024-07-09,Noctilucent Clouds over Florida,image,https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg
+2024-07-10,A Sagittarius Triplet,image,https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg
+2024-07-11,Globular Cluster Omega Centauri,image,https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg
+2024-07-12,Jones-Emberson 1,image,https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg
+2024-07-13,Solar System Family Portrait,image,https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg
+2024-07-14,Meteor Misses Galaxy,image,https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg
+2024-07-15,The Tadpole Galaxy from Hubble,image,https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg
+2024-07-16,Cometary Globules,image,https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg
+2024-07-17,Villarrica Volcano Against the Sky,video,https://www.youtube.com/embed/aX4ozspTPQY?rel=0
+2024-07-18,Messier 24: Sagittarius Star Cloud,image,https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg
+2024-07-19,Anticrepuscular Rays at the Planet Festival,image,https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg
+2024-07-20,Apollo 11 Landing Panorama,image,https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg
+2024-07-21,King of Wings Hoodoo under the Milky Way,image,https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_960.jpg
+2024-07-22,Chamaeleon Dark Nebulas,image,https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_960.jpg
+2024-07-23,The Crab Nebula from Visible to X-Ray,image,https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg
+2024-07-24,Exaggerated Moon,image,https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_960.jpg
+2024-07-25,NGC 7023: The Iris Nebula,image,https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg
+2024-07-26,Facing NGC 6946,image,https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg
+2024-07-27,Saturn at the Moon's Edge,image,https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+2024-07-28,Sun Dance,video,https://www.youtube.com/embed/hQFEHH5E69s?rel=0
+2024-07-29,Milky Way over Uluru,image,https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg
+2024-07-30,Arp 142: Interacting Galaxies from Webb,image,https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
+2024-07-31,Leopard Spots on Martian Rocks,image,https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_960.jpg
+2024-08-01,Comet Olbers over Kunetice Castle,image,https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
+2024-08-02,Mars Passing By,image,https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg
+2024-08-03,Glory and Fog Bow,image,https://apod.nasa.gov/apod/image/2408/GloryFog_label.png
+2024-08-04,Gaia: Here Comes the Sun,video,https://www.youtube.com/embed/XORui0wFKnE?rel=0
+2024-08-05,Milky Way Over Tunisia,image,https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg
+2024-08-06,Storm Cloud Over Texas,image,https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg
+2024-08-07,Milky Way Behind Three Merlons,image,https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg
+2024-08-08,Periodic Comet Swift-Tuttle,image,https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+2024-08-09,A Perseid Below,image,https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg
+2024-08-10,"The Light, Dark, and Dusty Trifid",image,https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg
+2024-08-11,Animation: Perseid Meteor Shower,video,https://www.meteorshowers.org/view/perseids
+2024-08-12,Perseid Meteors over Stonehenge,image,https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg
+2024-08-13,Giant Jet from the International Space Station,image,https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg
+2024-08-14,Meteors and Aurora over Germany,image,https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg
+2024-08-15,Late Night Vallentuna,image,https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg
+2024-08-16,Meteor Borealis,image,https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg
+2024-08-17,Sky Full of Arcs,image,https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg
+2024-08-18,A Solar Prominence Eruption from SDO,video,https://www.youtube.com/embed/PBL1RBj-P1g?rel=0
+2024-08-19,IC 5146: The Cocoon Nebula,image,https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg
+2024-08-20,Supermoon Beyond the Temple of Poseidon,image,https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg
+2024-08-21,Fermi's 12-year All-Sky Gamma-ray Map,image,https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg
+2024-08-22,The Dark Tower in Scorpius,image,https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg
+2024-08-23,Supernova Remnant CTA 1,image,https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg
+2024-08-24,South Pacific Shadowset,image,https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin1060.jpg
+2024-08-25,Fresh Tiger Stripes on Saturn's Enceladus,image,https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg
+2024-08-26,Perseid Meteors Over Inner Mongolia,video,https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0
+2024-08-27,Moon Eclipses Saturn,image,https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg
+2024-08-28,Tulip Nebula and Black Hole Cygnus X-1,image,https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg
+2024-08-29,Star Factory Messier 17,image,https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg
+2024-08-30,Southern Moonscape,image,https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek1024c.jpg
+2024-08-31,IFN and the NGC 7771 Group,image,https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel_1024.jpg
+2024-09-01,The Moon Dressed Like Saturn,image,https://apod.nasa.gov/apod/image/2409/SaturnMoon_Sojuel_960.jpg
+1995-10-01,Central Galactic Star Bursts,image,https://apod.nasa.gov/apod/image/ngc253_hst.gif
+1995-10-02,Phobos: Doomed Moon of Mars,image,https://apod.nasa.gov/apod/image/phobos.gif
+1995-10-03,Deimos: A Small Martian Moon,image,https://apod.nasa.gov/apod/image/deimos.gif
+1995-10-04,The Sun Spews X-rays,image,https://apod.nasa.gov/apod/image/sun_yohkoh.gif
+1995-10-05,CG4: A Ruptured Cometary Globule,image,https://apod.nasa.gov/apod/image/cg4_aat.gif
+1995-10-06,Dark Bok Globules in IC 2944,image,https://apod.nasa.gov/apod/image/bokglob_aat.gif
+1995-10-07,Apollo 12's Lunar Module Descends,image,https://apod.nasa.gov/apod/image/descend_ap12.gif
+1995-10-08,Apollo 12 Visits Surveyor 3,image,https://apod.nasa.gov/apod/image/survey_ap12.gif
+1995-10-09,Saturn's Moon Dione,image,https://apod.nasa.gov/apod/image/dione_vg1.gif
+1995-10-10,Dione's Lagrange Moon Helene,image,https://apod.nasa.gov/apod/image/helene_vg2.gif
+1995-10-11,LMC Star Clouds,image,https://apod.nasa.gov/apod/image/lmcstars_uit.gif
+1995-10-12,HH-47 Star Jet,image,https://apod.nasa.gov/apod/image/starjets_hst.gif
+1995-10-13,"Jupiter, Io, and Ganymede's Shadow",image,https://apod.nasa.gov/apod/image/jupiterio_vg1.gif
+1995-10-14,Rhea: Saturn's Second Largest Moon,image,https://apod.nasa.gov/apod/image/rhea_vg1.gif
+1995-10-15,Iapetus: Saturn's Disappearing Moon,image,https://apod.nasa.gov/apod/image/iapetus_vg1.gif
+2004-08-20,Raining Perseids,image,https://apod.nasa.gov/apod/image/0408/perseidMeteors_bruenjes_c1.jpg
+2004-08-21,Solar Sail,image,https://apod.nasa.gov/apod/image/0408/solarsail_msfc.jpg
+2004-08-22,Earth at Night,image,https://apod.nasa.gov/apod/image/0208/earthlights02_dmsp.jpg
+2004-08-23,Looking Out Over Mars,image,https://apod.nasa.gov/apod/image/0408/hills2_spirit.jpg
+2004-08-24,Supply Ship Approaches the Space Station,image,https://apod.nasa.gov/apod/image/0408/supply_iss.jpg
+2004-08-25,Zodiacal Light and the False Dawn,image,https://apod.nasa.gov/apod/image/0408/zodiacal_seip_unlabelled.jpg
+2006-04-20,A Dust Cloud in NGC 281,image,https://apod.nasa.gov/apod/image/0604/n281_hst.jpg
+2006-04-21,NGC 253: Dusty Island Universe,image,https://apod.nasa.gov/apod/image/0604/ngc253_gabany_c55.jpg
+2006-04-22,Z is for Mars,image,https://apod.nasa.gov/apod/image/0604/Mars2005_6_tezel_c51.jpg
+2006-04-23,The Solar Spectrum,image,https://apod.nasa.gov/apod/image/0604/solarspectrum_noao_big.jpg
+2006-04-24,Star Clouds over Arizona,image,https://apod.nasa.gov/apod/image/0604/cloudsclouds_beinert_big.jpg
+2006-04-25,M82: Galaxy with a Supergalactic Wind,image,https://apod.nasa.gov/apod/image/0604/cigar_hst.jpg
+2006-04-26,Crumbling Comet Schwassmann-Wachmann 3 Approaches,image,https://apod.nasa.gov/apod/image/0604/cometsw_eso.jpg
+2006-04-27,NGC 4696: Energy from a Black Hole,image,https://apod.nasa.gov/apod/image/0604/ngc4696_compCXC_f.jpg
+2006-04-28,NGC 7635: Bubble in a Cosmic Sea,image,https://apod.nasa.gov/apod/image/0604/ngc7635_ddemartin_c.jpg
+2006-04-29,Skylab Over Earth,image,https://apod.nasa.gov/apod/image/0604/skylab_nasa.jpg
+2006-04-30,1006 AD: Supernova in the Sky,image,https://apod.nasa.gov/apod/image/0604/sn1006_tezel.jpg
+2006-05-01,Open Cluster NGC 290: A Stellar Jewel Box,image,https://apod.nasa.gov/apod/image/0605/ngc290_hst.jpg
+2006-05-02,Sunspot 875 Flares,image,https://apod.nasa.gov/apod/image/0605/sunspot0875_piepol.jpg
+2006-05-03,Saturn in Blue and Gold,image,https://apod.nasa.gov/apod/image/0605/saturn4_cassini.jpg
+2006-05-04,Schwassmann-Wachmann 3: Fragment B,image,https://apod.nasa.gov/apod/image/0605/fragb_73p_hst_c.jpg
+2006-05-05,Jupiter and the Red Spots,image,https://apod.nasa.gov/apod/image/0605/redspot2_hst_c68.jpg
+2006-05-06,Three Galaxies in Draco,image,https://apod.nasa.gov/apod/image/0605/draco3_heutz_f50.jpg
+2006-05-07,NGC 2440: Cocoon of a New White Dwarf,image,https://apod.nasa.gov/apod/image/0605/ngc2440_hst4.jpg
+2006-05-08,Descent Panorama of Saturn's Titan,image,https://apod.nasa.gov/apod/image/0605/titan5km_huygens.jpg
+2006-05-09,Rock Slab Growing at Mt. St. Helens Volcano,image,https://apod.nasa.gov/apod/image/0605/slabsthelens_usgs.jpg
+2006-05-10,The Large Cloud of Magellan,image,https://apod.nasa.gov/apod/image/0605/lmc_whw.jpg
+2008-05-12,"The M81 Galaxy Group Through the Integrated Flux Nebula 
+",image,https://apod.nasa.gov/apod/image/0805/m81deep_gallego.jpg
+2008-05-13,Ancient Craters of Southern Rhea,image,https://apod.nasa.gov/apod/image/0805/rhea4_cassini.jpg
+2008-05-14,A Supply Ship Docks with the International Space Station,image,https://apod.nasa.gov/apod/image/0805/soyuzdock_iss16.jpg
+2008-05-15,Sideways Galaxy NGC 3628,image,https://apod.nasa.gov/apod/image/0805/ngc3628crop_quattrocchi_alt800.jpg
+2008-05-16,Circles in the Sky,image,https://apod.nasa.gov/apod/image/0805/halo7_051008_r90_w525.jpg
+2008-05-17,Logarithmic Spirals,image,https://apod.nasa.gov/apod/image/0805/NaturalSpiralsS.jpg
+2008-05-18,On the Origin of Gold,image,https://apod.nasa.gov/apod/image/0805/nsmerger_heasarc.jpg
+2008-05-19,Flying Over the Columbia Hills of Mars,image,https://apod.nasa.gov/apod/image/0805/surfacefly_spirit.jpg
+2008-05-20,The Perseus Cluster of Galaxies,image,https://apod.nasa.gov/apod/image/0805/perseus_cfht.jpg
+2020-01-01,Betelgeuse Imagined,image,https://apod.nasa.gov/apod/image/2001/BetelgeuseImagined_EsoCalcada_960.jpg
+2020-01-02,The Fainting of Betelgeuse,image,https://apod.nasa.gov/apod/image/2001/OrionTrees123019Westlake1024.jpg
+2020-01-03,Quadrantids over the Great Wall,image,https://apod.nasa.gov/apod/image/2001/QuadrantidsChineseGreatWall_1067.jpg
+2020-01-04,Aurora Slathers Up the Sky,image,https://apod.nasa.gov/apod/image/2001/aurora_iss052e007857_1024.jpg
+2020-01-05,A Starry Night of Iceland,image,https://apod.nasa.gov/apod/image/2001/aurora_vetter_1080.jpg
+2020-01-06,Tumultuous Clouds of Jupiter,image,https://apod.nasa.gov/apod/image/2001/JupiterClouds_JunoGill_960.jpg
+2020-01-07,IC 405: The Flaming Star Nebula,image,https://apod.nasa.gov/apod/image/2001/IC405hp_ColesHelm_960.jpg
+2020-01-08,Galaxies in the River,image,https://apod.nasa.gov/apod/image/2001/NGC1532-final3_1024r.jpg
+2020-01-09,Perihelion to Aphelion,image,https://apod.nasa.gov/apod/image/2001/peri-api-sun1024.jpg
+2020-01-10,Nacreous Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2001/NacreousPMHeden.jpg
+2025-03-01,Blue Ghost to the Moon,image,https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg
+2024-06-01,Stereo Helene,image,https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg
+2024-06-02,Rotating Moon from LRO,video,https://www.youtube.com/embed/sNUNB6CMnE8?rel=0
+2024-06-03,NGC 2403 in Camelopardalis,image,https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+2024-06-04,Comet Pons-Brooks Develops Opposing Tails,image,https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg
+2024-06-05,Shadow of a Martian Robot,image,https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
+2024-06-06,NGC 4565: Galaxy on Edge,image,https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg
+2024-06-07,SH2-308: The Dolphin Head Nebula,image,https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg
+2024-06-08,Pandora's Cluster of Galaxies,image,https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png
+2024-06-09,How to Identify that Light in the Sky,image,https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg
+2024-06-10,Sh2-132: The Lion Nebula,image,https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg
+2024-06-11,Colorful Stars and Clouds near Rho Ophiuchi,image,https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg
+2024-06-12,Aurora over Karkonosze Mountains,image,https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg
+2024-06-13,Messier 66 Close Up,image,https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg
+2024-06-14,RCW 85,image,https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg
+2024-06-15,Prominences and Filaments on the Active Sun,image,https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg
+2024-06-16,Animation: Black Hole Destroys Star,video,https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
+2024-06-17,Ou4: The Giant Squid Nebula,image,https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg
+2024-06-18,Gigantic Jets over Himalayan Mountains,image,https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_960.jpg
+2024-06-19,NGC 6188: Dragons of Ara,image,https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg
+2024-06-20,Sandy and the Moon Halo,image,https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg
+2024-06-21,Hubble's NGC 1546,image,https://apod.nasa.gov/apod/image/2406/NGC1546compassHST1024.jpg
+2024-06-22,Lynds Dark Nebula 1251,image,https://apod.nasa.gov/apod/image/2406/LDN1251_1098c.png
+2024-06-23,The Colors of Saturn from Cassini,image,https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg
+2024-06-24,JADES-GS-z14-0: A New Farthest Object,image,https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg
+2024-06-25,The Dark Doodad Nebula,image,https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg
+2024-06-26,"Timelapse: Aurora, SAR, and the Milky Way",video,https://www.youtube.com/embed/fisAZYNwDgk?rel=0
+2024-06-27,Protostellar Outflows in Serpens,image,https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png
+2024-06-28,Comet 13P/Olbers,image,https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg
+2024-06-29,A Solstice Moon,image,https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg
+2024-06-30,Earthrise: A Video Reconstruction,video,https://www.youtube.com/embed/1R5QqhPq1Ik?rel=0
+2024-07-01,Time Spiral,image,https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg
+2024-07-02,NGC 602: Oyster Star Cluster,image,https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg
+2024-07-03,M83: Star Streams and a Thousand Rubies,image,https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg
+2024-07-04,A Beautiful Trifid,image,https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg
+2024-07-05,Mount Etna Milky Way,image,https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__1024pix.jpg
+2024-07-06,NGC 7789: Caroline's Rose,image,https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg
+2024-07-07,Iridescent Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg
+2024-07-08,Exoplanet Zoo: Other Stars,image,https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg
+2024-07-09,Noctilucent Clouds over Florida,image,https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg
+2024-07-10,A Sagittarius Triplet,image,https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg
+2024-07-11,Globular Cluster Omega Centauri,image,https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg
+2024-07-12,Jones-Emberson 1,image,https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg
+2024-07-13,Solar System Family Portrait,image,https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg
+2024-07-14,Meteor Misses Galaxy,image,https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg
+2024-07-15,The Tadpole Galaxy from Hubble,image,https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg
+2024-07-16,Cometary Globules,image,https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg
+2024-07-17,Villarrica Volcano Against the Sky,video,https://www.youtube.com/embed/aX4ozspTPQY?rel=0
+2024-07-18,Messier 24: Sagittarius Star Cloud,image,https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg
+2024-07-19,Anticrepuscular Rays at the Planet Festival,image,https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg
+2024-07-20,Apollo 11 Landing Panorama,image,https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg
+2024-07-21,King of Wings Hoodoo under the Milky Way,image,https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_960.jpg
+2024-07-22,Chamaeleon Dark Nebulas,image,https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_960.jpg
+2024-07-23,The Crab Nebula from Visible to X-Ray,image,https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg
+2024-07-24,Exaggerated Moon,image,https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_960.jpg
+2024-07-25,NGC 7023: The Iris Nebula,image,https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg
+2024-07-26,Facing NGC 6946,image,https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg
+2024-07-27,Saturn at the Moon's Edge,image,https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+2024-07-28,Sun Dance,video,https://www.youtube.com/embed/hQFEHH5E69s?rel=0
+2024-07-29,Milky Way over Uluru,image,https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg
+2024-07-30,Arp 142: Interacting Galaxies from Webb,image,https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
+2024-07-31,Leopard Spots on Martian Rocks,image,https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_960.jpg
+2024-08-01,Comet Olbers over Kunetice Castle,image,https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
+2024-08-02,Mars Passing By,image,https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg
+2024-08-03,Glory and Fog Bow,image,https://apod.nasa.gov/apod/image/2408/GloryFog_label.png
+2024-08-04,Gaia: Here Comes the Sun,video,https://www.youtube.com/embed/XORui0wFKnE?rel=0
+2024-08-05,Milky Way Over Tunisia,image,https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg
+2024-08-06,Storm Cloud Over Texas,image,https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg
+2024-08-07,Milky Way Behind Three Merlons,image,https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg
+2024-08-08,Periodic Comet Swift-Tuttle,image,https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+2024-08-09,A Perseid Below,image,https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg
+2024-08-10,"The Light, Dark, and Dusty Trifid",image,https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg
+2024-08-11,Animation: Perseid Meteor Shower,video,https://www.meteorshowers.org/view/perseids
+2024-08-12,Perseid Meteors over Stonehenge,image,https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg
+2024-08-13,Giant Jet from the International Space Station,image,https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg
+2024-08-14,Meteors and Aurora over Germany,image,https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg
+2024-08-15,Late Night Vallentuna,image,https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg
+2024-08-16,Meteor Borealis,image,https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg
+2024-08-17,Sky Full of Arcs,image,https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg
+2024-08-18,A Solar Prominence Eruption from SDO,video,https://www.youtube.com/embed/PBL1RBj-P1g?rel=0
+2024-08-19,IC 5146: The Cocoon Nebula,image,https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg
+2024-08-20,Supermoon Beyond the Temple of Poseidon,image,https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg
+2024-08-21,Fermi's 12-year All-Sky Gamma-ray Map,image,https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg
+2024-08-22,The Dark Tower in Scorpius,image,https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg
+2024-08-23,Supernova Remnant CTA 1,image,https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg
+2024-08-24,South Pacific Shadowset,image,https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin1060.jpg
+2024-08-25,Fresh Tiger Stripes on Saturn's Enceladus,image,https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg
+2024-08-26,Perseid Meteors Over Inner Mongolia,video,https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0
+2024-08-27,Moon Eclipses Saturn,image,https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg
+2024-08-28,Tulip Nebula and Black Hole Cygnus X-1,image,https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg
+2024-08-29,Star Factory Messier 17,image,https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg
+2024-08-30,Southern Moonscape,image,https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek1024c.jpg
+2024-08-31,IFN and the NGC 7771 Group,image,https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel_1024.jpg
+2024-09-01,The Moon Dressed Like Saturn,image,https://apod.nasa.gov/apod/image/2409/SaturnMoon_Sojuel_960.jpg
+1995-10-01,Central Galactic Star Bursts,image,https://apod.nasa.gov/apod/image/ngc253_hst.gif
+1995-10-02,Phobos: Doomed Moon of Mars,image,https://apod.nasa.gov/apod/image/phobos.gif
+1995-10-03,Deimos: A Small Martian Moon,image,https://apod.nasa.gov/apod/image/deimos.gif
+1995-10-04,The Sun Spews X-rays,image,https://apod.nasa.gov/apod/image/sun_yohkoh.gif
+1995-10-05,CG4: A Ruptured Cometary Globule,image,https://apod.nasa.gov/apod/image/cg4_aat.gif
+1995-10-06,Dark Bok Globules in IC 2944,image,https://apod.nasa.gov/apod/image/bokglob_aat.gif
+1995-10-07,Apollo 12's Lunar Module Descends,image,https://apod.nasa.gov/apod/image/descend_ap12.gif
+1995-10-08,Apollo 12 Visits Surveyor 3,image,https://apod.nasa.gov/apod/image/survey_ap12.gif
+1995-10-09,Saturn's Moon Dione,image,https://apod.nasa.gov/apod/image/dione_vg1.gif
+1995-10-10,Dione's Lagrange Moon Helene,image,https://apod.nasa.gov/apod/image/helene_vg2.gif
+1995-10-11,LMC Star Clouds,image,https://apod.nasa.gov/apod/image/lmcstars_uit.gif
+1995-10-12,HH-47 Star Jet,image,https://apod.nasa.gov/apod/image/starjets_hst.gif
+1995-10-13,"Jupiter, Io, and Ganymede's Shadow",image,https://apod.nasa.gov/apod/image/jupiterio_vg1.gif
+1995-10-14,Rhea: Saturn's Second Largest Moon,image,https://apod.nasa.gov/apod/image/rhea_vg1.gif
+1995-10-15,Iapetus: Saturn's Disappearing Moon,image,https://apod.nasa.gov/apod/image/iapetus_vg1.gif
+2004-08-20,Raining Perseids,image,https://apod.nasa.gov/apod/image/0408/perseidMeteors_bruenjes_c1.jpg
+2004-08-21,Solar Sail,image,https://apod.nasa.gov/apod/image/0408/solarsail_msfc.jpg
+2004-08-22,Earth at Night,image,https://apod.nasa.gov/apod/image/0208/earthlights02_dmsp.jpg
+2004-08-23,Looking Out Over Mars,image,https://apod.nasa.gov/apod/image/0408/hills2_spirit.jpg
+2004-08-24,Supply Ship Approaches the Space Station,image,https://apod.nasa.gov/apod/image/0408/supply_iss.jpg
+2004-08-25,Zodiacal Light and the False Dawn,image,https://apod.nasa.gov/apod/image/0408/zodiacal_seip_unlabelled.jpg
+2006-04-20,A Dust Cloud in NGC 281,image,https://apod.nasa.gov/apod/image/0604/n281_hst.jpg
+2006-04-21,NGC 253: Dusty Island Universe,image,https://apod.nasa.gov/apod/image/0604/ngc253_gabany_c55.jpg
+2006-04-22,Z is for Mars,image,https://apod.nasa.gov/apod/image/0604/Mars2005_6_tezel_c51.jpg
+2006-04-23,The Solar Spectrum,image,https://apod.nasa.gov/apod/image/0604/solarspectrum_noao_big.jpg
+2006-04-24,Star Clouds over Arizona,image,https://apod.nasa.gov/apod/image/0604/cloudsclouds_beinert_big.jpg
+2006-04-25,M82: Galaxy with a Supergalactic Wind,image,https://apod.nasa.gov/apod/image/0604/cigar_hst.jpg
+2006-04-26,Crumbling Comet Schwassmann-Wachmann 3 Approaches,image,https://apod.nasa.gov/apod/image/0604/cometsw_eso.jpg
+2006-04-27,NGC 4696: Energy from a Black Hole,image,https://apod.nasa.gov/apod/image/0604/ngc4696_compCXC_f.jpg
+2006-04-28,NGC 7635: Bubble in a Cosmic Sea,image,https://apod.nasa.gov/apod/image/0604/ngc7635_ddemartin_c.jpg
+2006-04-29,Skylab Over Earth,image,https://apod.nasa.gov/apod/image/0604/skylab_nasa.jpg
+2006-04-30,1006 AD: Supernova in the Sky,image,https://apod.nasa.gov/apod/image/0604/sn1006_tezel.jpg
+2006-05-01,Open Cluster NGC 290: A Stellar Jewel Box,image,https://apod.nasa.gov/apod/image/0605/ngc290_hst.jpg
+2006-05-02,Sunspot 875 Flares,image,https://apod.nasa.gov/apod/image/0605/sunspot0875_piepol.jpg
+2006-05-03,Saturn in Blue and Gold,image,https://apod.nasa.gov/apod/image/0605/saturn4_cassini.jpg
+2006-05-04,Schwassmann-Wachmann 3: Fragment B,image,https://apod.nasa.gov/apod/image/0605/fragb_73p_hst_c.jpg
+2006-05-05,Jupiter and the Red Spots,image,https://apod.nasa.gov/apod/image/0605/redspot2_hst_c68.jpg
+2006-05-06,Three Galaxies in Draco,image,https://apod.nasa.gov/apod/image/0605/draco3_heutz_f50.jpg
+2006-05-07,NGC 2440: Cocoon of a New White Dwarf,image,https://apod.nasa.gov/apod/image/0605/ngc2440_hst4.jpg
+2006-05-08,Descent Panorama of Saturn's Titan,image,https://apod.nasa.gov/apod/image/0605/titan5km_huygens.jpg
+2006-05-09,Rock Slab Growing at Mt. St. Helens Volcano,image,https://apod.nasa.gov/apod/image/0605/slabsthelens_usgs.jpg
+2006-05-10,The Large Cloud of Magellan,image,https://apod.nasa.gov/apod/image/0605/lmc_whw.jpg
+2008-05-12,"The M81 Galaxy Group Through the Integrated Flux Nebula 
+",image,https://apod.nasa.gov/apod/image/0805/m81deep_gallego.jpg
+2008-05-13,Ancient Craters of Southern Rhea,image,https://apod.nasa.gov/apod/image/0805/rhea4_cassini.jpg
+2008-05-14,A Supply Ship Docks with the International Space Station,image,https://apod.nasa.gov/apod/image/0805/soyuzdock_iss16.jpg
+2008-05-15,Sideways Galaxy NGC 3628,image,https://apod.nasa.gov/apod/image/0805/ngc3628crop_quattrocchi_alt800.jpg
+2008-05-16,Circles in the Sky,image,https://apod.nasa.gov/apod/image/0805/halo7_051008_r90_w525.jpg
+2008-05-17,Logarithmic Spirals,image,https://apod.nasa.gov/apod/image/0805/NaturalSpiralsS.jpg
+2008-05-18,On the Origin of Gold,image,https://apod.nasa.gov/apod/image/0805/nsmerger_heasarc.jpg
+2008-05-19,Flying Over the Columbia Hills of Mars,image,https://apod.nasa.gov/apod/image/0805/surfacefly_spirit.jpg
+2008-05-20,The Perseus Cluster of Galaxies,image,https://apod.nasa.gov/apod/image/0805/perseus_cfht.jpg
+2008-10-12,Spiral Galaxy NGC 3370 from Hubble,image,https://apod.nasa.gov/apod/image/0810/ngc3370_hst.jpg
+2008-10-13,Cassini Passes Through Ice Plumes of Enceladus,image,https://apod.nasa.gov/apod/image/0810/enceladus9_cassini.jpg
+2008-10-14,An Enceladus Tiger Stripe from Cassini,image,https://apod.nasa.gov/apod/image/0810/enceladus8_cassini.jpg
+2008-10-15,Camera Orion,image,https://apod.nasa.gov/apod/image/0810/orion_gauvreau.jpg
+2020-01-01,Betelgeuse Imagined,image,https://apod.nasa.gov/apod/image/2001/BetelgeuseImagined_EsoCalcada_960.jpg
+2020-01-02,The Fainting of Betelgeuse,image,https://apod.nasa.gov/apod/image/2001/OrionTrees123019Westlake1024.jpg
+2020-01-03,Quadrantids over the Great Wall,image,https://apod.nasa.gov/apod/image/2001/QuadrantidsChineseGreatWall_1067.jpg
+2020-01-04,Aurora Slathers Up the Sky,image,https://apod.nasa.gov/apod/image/2001/aurora_iss052e007857_1024.jpg
+2020-01-05,A Starry Night of Iceland,image,https://apod.nasa.gov/apod/image/2001/aurora_vetter_1080.jpg
+2020-01-06,Tumultuous Clouds of Jupiter,image,https://apod.nasa.gov/apod/image/2001/JupiterClouds_JunoGill_960.jpg
+2020-01-07,IC 405: The Flaming Star Nebula,image,https://apod.nasa.gov/apod/image/2001/IC405hp_ColesHelm_960.jpg
+2020-01-08,Galaxies in the River,image,https://apod.nasa.gov/apod/image/2001/NGC1532-final3_1024r.jpg
+2020-01-09,Perihelion to Aphelion,image,https://apod.nasa.gov/apod/image/2001/peri-api-sun1024.jpg
+2020-01-10,Nacreous Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2001/NacreousPMHeden.jpg
+2025-03-01,Blue Ghost to the Moon,image,https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg
+2024-06-01,Stereo Helene,image,https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg
+2024-06-02,Rotating Moon from LRO,video,https://www.youtube.com/embed/sNUNB6CMnE8?rel=0
+2024-06-03,NGC 2403 in Camelopardalis,image,https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+2024-06-04,Comet Pons-Brooks Develops Opposing Tails,image,https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg
+2024-06-05,Shadow of a Martian Robot,image,https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
+2024-06-06,NGC 4565: Galaxy on Edge,image,https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg
+2024-06-07,SH2-308: The Dolphin Head Nebula,image,https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg
+2024-06-08,Pandora's Cluster of Galaxies,image,https://apod.nasa.gov/apod/image/2406/abell2744_jwst1024.png
+2024-06-09,How to Identify that Light in the Sky,image,https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg
+2024-06-10,Sh2-132: The Lion Nebula,image,https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg
+2024-06-11,Colorful Stars and Clouds near Rho Ophiuchi,image,https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg
+2024-06-12,Aurora over Karkonosze Mountains,image,https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg
+2024-06-13,Messier 66 Close Up,image,https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg
+2024-06-14,RCW 85,image,https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg
+2024-06-15,Prominences and Filaments on the Active Sun,image,https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg
+2024-06-16,Animation: Black Hole Destroys Star,video,https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
+2024-06-17,Ou4: The Giant Squid Nebula,image,https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg
+2024-06-18,Gigantic Jets over Himalayan Mountains,image,https://apod.nasa.gov/apod/image/2406/GiganticJets_Xuanhua_960.jpg
+2024-06-19,NGC 6188: Dragons of Ara,image,https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg
+2024-06-20,Sandy and the Moon Halo,image,https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg
+2024-06-21,Hubble's NGC 1546,image,https://apod.nasa.gov/apod/image/2406/NGC1546compassHST1024.jpg
+2024-06-22,Lynds Dark Nebula 1251,image,https://apod.nasa.gov/apod/image/2406/LDN1251_1098c.png
+2024-06-23,The Colors of Saturn from Cassini,image,https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg
+2024-06-24,JADES-GS-z14-0: A New Farthest Object,image,https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg
+2024-06-25,The Dark Doodad Nebula,image,https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg
+2024-06-26,"Timelapse: Aurora, SAR, and the Milky Way",video,https://www.youtube.com/embed/fisAZYNwDgk?rel=0
+2024-06-27,Protostellar Outflows in Serpens,image,https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png
+2024-06-28,Comet 13P/Olbers,image,https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg
+2024-06-29,A Solstice Moon,image,https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg
+2024-06-30,Earthrise: A Video Reconstruction,video,https://www.youtube.com/embed/1R5QqhPq1Ik?rel=0
+2024-07-01,Time Spiral,image,https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg
+2024-07-02,NGC 602: Oyster Star Cluster,image,https://apod.nasa.gov/apod/image/2407/Ngc602_Hubble_960.jpg
+2024-07-03,M83: Star Streams and a Thousand Rubies,image,https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg
+2024-07-04,A Beautiful Trifid,image,https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg
+2024-07-05,Mount Etna Milky Way,image,https://apod.nasa.gov/apod/image/2407/GianniTumino_Etna&MW_14mm_JPG_LOGO__1024pix.jpg
+2024-07-06,NGC 7789: Caroline's Rose,image,https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg
+2024-07-07,Iridescent Clouds over Sweden,image,https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg
+2024-07-08,Exoplanet Zoo: Other Stars,image,https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg
+2024-07-09,Noctilucent Clouds over Florida,image,https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg
+2024-07-10,A Sagittarius Triplet,image,https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg
+2024-07-11,Globular Cluster Omega Centauri,image,https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg
+2024-07-12,Jones-Emberson 1,image,https://apod.nasa.gov/apod/image/2407/PK164_vdef3_1024.jpg
+2024-07-13,Solar System Family Portrait,image,https://apod.nasa.gov/apod/image/2407/ssportrait_vg1.jpg
+2024-07-14,Meteor Misses Galaxy,image,https://apod.nasa.gov/apod/image/2407/M33Meteor_Chokshi_960.jpg
+2024-07-15,The Tadpole Galaxy from Hubble,image,https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg
+2024-07-16,Cometary Globules,image,https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg
+2024-07-17,Villarrica Volcano Against the Sky,video,https://www.youtube.com/embed/aX4ozspTPQY?rel=0
+2024-07-18,Messier 24: Sagittarius Star Cloud,image,https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg
+2024-07-19,Anticrepuscular Rays at the Planet Festival,image,https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg
+2024-07-20,Apollo 11 Landing Panorama,image,https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg
+2024-07-21,King of Wings Hoodoo under the Milky Way,image,https://apod.nasa.gov/apod/image/2407/KingOfWings_Pinkston_960.jpg
+2024-07-22,Chamaeleon Dark Nebulas,image,https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_960.jpg
+2024-07-23,The Crab Nebula from Visible to X-Ray,image,https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg
+2024-07-24,Exaggerated Moon,image,https://apod.nasa.gov/apod/image/2407/ExaggeratedMoon_Ibatulin_960.jpg
+2024-07-25,NGC 7023: The Iris Nebula,image,https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg
+2024-07-26,Facing NGC 6946,image,https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg
+2024-07-27,Saturn at the Moon's Edge,image,https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+2024-07-28,Sun Dance,video,https://www.youtube.com/embed/hQFEHH5E69s?rel=0
+2024-07-29,Milky Way over Uluru,image,https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg
+2024-07-30,Arp 142: Interacting Galaxies from Webb,image,https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
+2024-07-31,Leopard Spots on Martian Rocks,image,https://apod.nasa.gov/apod/image/2407/LeopardSpots_Perseverance_960.jpg
+2024-08-01,Comet Olbers over Kunetice Castle,image,https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
+2024-08-02,Mars Passing By,image,https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg
+2024-08-03,Glory and Fog Bow,image,https://apod.nasa.gov/apod/image/2408/GloryFog_label.png
+2024-08-04,Gaia: Here Comes the Sun,video,https://www.youtube.com/embed/XORui0wFKnE?rel=0
+2024-08-05,Milky Way Over Tunisia,image,https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg
+2024-08-06,Storm Cloud Over Texas,image,https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg
+2024-08-07,Milky Way Behind Three Merlons,image,https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg
+2024-08-08,Periodic Comet Swift-Tuttle,image,https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+2024-08-09,A Perseid Below,image,https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg
+2024-08-10,"The Light, Dark, and Dusty Trifid",image,https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg
+2024-08-11,Animation: Perseid Meteor Shower,video,https://www.meteorshowers.org/view/perseids
+2024-08-12,Perseid Meteors over Stonehenge,image,https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg
+2024-08-13,Giant Jet from the International Space Station,image,https://apod.nasa.gov/apod/image/2408/JetIss_Schmauss_960.jpg
+2024-08-14,Meteors and Aurora over Germany,image,https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg
+2024-08-15,Late Night Vallentuna,image,https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg
+2024-08-16,Meteor Borealis,image,https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg
+2024-08-17,Sky Full of Arcs,image,https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg
+2024-08-18,A Solar Prominence Eruption from SDO,video,https://www.youtube.com/embed/PBL1RBj-P1g?rel=0
+2024-08-19,IC 5146: The Cocoon Nebula,image,https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg
+2024-08-20,Supermoon Beyond the Temple of Poseidon,image,https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg
+2024-08-21,Fermi's 12-year All-Sky Gamma-ray Map,image,https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg
+2024-08-22,The Dark Tower in Scorpius,image,https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg
+2024-08-23,Supernova Remnant CTA 1,image,https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg
+2024-08-24,South Pacific Shadowset,image,https://apod.nasa.gov/apod/image/2408/FijiMoonsetWangJin1060.jpg
+2024-08-25,Fresh Tiger Stripes on Saturn's Enceladus,image,https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg
+2024-08-26,Perseid Meteors Over Inner Mongolia,video,https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0
+2024-08-27,Moon Eclipses Saturn,image,https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg
+2024-08-28,Tulip Nebula and Black Hole Cygnus X-1,image,https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg
+2024-08-29,Star Factory Messier 17,image,https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg
+2024-08-30,Southern Moonscape,image,https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek1024c.jpg
+2024-08-31,IFN and the NGC 7771 Group,image,https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel_1024.jpg
+2024-09-01,The Moon Dressed Like Saturn,image,https://apod.nasa.gov/apod/image/2409/SaturnMoon_Sojuel_960.jpg
+1995-10-01,Central Galactic Star Bursts,image,https://apod.nasa.gov/apod/image/ngc253_hst.gif
+1995-10-02,Phobos: Doomed Moon of Mars,image,https://apod.nasa.gov/apod/image/phobos.gif
+1995-10-03,Deimos: A Small Martian Moon,image,https://apod.nasa.gov/apod/image/deimos.gif
+1995-10-04,The Sun Spews X-rays,image,https://apod.nasa.gov/apod/image/sun_yohkoh.gif
+1995-10-05,CG4: A Ruptured Cometary Globule,image,https://apod.nasa.gov/apod/image/cg4_aat.gif
+1995-10-06,Dark Bok Globules in IC 2944,image,https://apod.nasa.gov/apod/image/bokglob_aat.gif
+1995-10-07,Apollo 12's Lunar Module Descends,image,https://apod.nasa.gov/apod/image/descend_ap12.gif
+1995-10-08,Apollo 12 Visits Surveyor 3,image,https://apod.nasa.gov/apod/image/survey_ap12.gif
+1995-10-09,Saturn's Moon Dione,image,https://apod.nasa.gov/apod/image/dione_vg1.gif
+1995-10-10,Dione's Lagrange Moon Helene,image,https://apod.nasa.gov/apod/image/helene_vg2.gif
+1995-10-11,LMC Star Clouds,image,https://apod.nasa.gov/apod/image/lmcstars_uit.gif
+1995-10-12,HH-47 Star Jet,image,https://apod.nasa.gov/apod/image/starjets_hst.gif
+1995-10-13,"Jupiter, Io, and Ganymede's Shadow",image,https://apod.nasa.gov/apod/image/jupiterio_vg1.gif
+1995-10-14,Rhea: Saturn's Second Largest Moon,image,https://apod.nasa.gov/apod/image/rhea_vg1.gif
+1995-10-15,Iapetus: Saturn's Disappearing Moon,image,https://apod.nasa.gov/apod/image/iapetus_vg1.gif
+2004-08-20,Raining Perseids,image,https://apod.nasa.gov/apod/image/0408/perseidMeteors_bruenjes_c1.jpg
+2004-08-21,Solar Sail,image,https://apod.nasa.gov/apod/image/0408/solarsail_msfc.jpg
+2004-08-22,Earth at Night,image,https://apod.nasa.gov/apod/image/0208/earthlights02_dmsp.jpg
+2004-08-23,Looking Out Over Mars,image,https://apod.nasa.gov/apod/image/0408/hills2_spirit.jpg
+2004-08-24,Supply Ship Approaches the Space Station,image,https://apod.nasa.gov/apod/image/0408/supply_iss.jpg
+2004-08-25,Zodiacal Light and the False Dawn,image,https://apod.nasa.gov/apod/image/0408/zodiacal_seip_unlabelled.jpg
+2006-04-20,A Dust Cloud in NGC 281,image,https://apod.nasa.gov/apod/image/0604/n281_hst.jpg
+2006-04-21,NGC 253: Dusty Island Universe,image,https://apod.nasa.gov/apod/image/0604/ngc253_gabany_c55.jpg
+2006-04-22,Z is for Mars,image,https://apod.nasa.gov/apod/image/0604/Mars2005_6_tezel_c51.jpg
+2006-04-23,The Solar Spectrum,image,https://apod.nasa.gov/apod/image/0604/solarspectrum_noao_big.jpg
+2006-04-24,Star Clouds over Arizona,image,https://apod.nasa.gov/apod/image/0604/cloudsclouds_beinert_big.jpg
+2006-04-25,M82: Galaxy with a Supergalactic Wind,image,https://apod.nasa.gov/apod/image/0604/cigar_hst.jpg
+2006-04-26,Crumbling Comet Schwassmann-Wachmann 3 Approaches,image,https://apod.nasa.gov/apod/image/0604/cometsw_eso.jpg
+2006-04-27,NGC 4696: Energy from a Black Hole,image,https://apod.nasa.gov/apod/image/0604/ngc4696_compCXC_f.jpg
+2006-04-28,NGC 7635: Bubble in a Cosmic Sea,image,https://apod.nasa.gov/apod/image/0604/ngc7635_ddemartin_c.jpg
+2006-04-29,Skylab Over Earth,image,https://apod.nasa.gov/apod/image/0604/skylab_nasa.jpg
+2006-04-30,1006 AD: Supernova in the Sky,image,https://apod.nasa.gov/apod/image/0604/sn1006_tezel.jpg
+2006-05-01,Open Cluster NGC 290: A Stellar Jewel Box,image,https://apod.nasa.gov/apod/image/0605/ngc290_hst.jpg
+2006-05-02,Sunspot 875 Flares,image,https://apod.nasa.gov/apod/image/0605/sunspot0875_piepol.jpg
+2006-05-03,Saturn in Blue and Gold,image,https://apod.nasa.gov/apod/image/0605/saturn4_cassini.jpg
+2006-05-04,Schwassmann-Wachmann 3: Fragment B,image,https://apod.nasa.gov/apod/image/0605/fragb_73p_hst_c.jpg
+2006-05-05,Jupiter and the Red Spots,image,https://apod.nasa.gov/apod/image/0605/redspot2_hst_c68.jpg
+2006-05-06,Three Galaxies in Draco,image,https://apod.nasa.gov/apod/image/0605/draco3_heutz_f50.jpg
+2006-05-07,NGC 2440: Cocoon of a New White Dwarf,image,https://apod.nasa.gov/apod/image/0605/ngc2440_hst4.jpg
+2006-05-08,Descent Panorama of Saturn's Titan,image,https://apod.nasa.gov/apod/image/0605/titan5km_huygens.jpg
+2006-05-09,Rock Slab Growing at Mt. St. Helens Volcano,image,https://apod.nasa.gov/apod/image/0605/slabsthelens_usgs.jpg
+2006-05-10,The Large Cloud of Magellan,image,https://apod.nasa.gov/apod/image/0605/lmc_whw.jpg
+2008-05-12,"The M81 Galaxy Group Through the Integrated Flux Nebula 
+",image,https://apod.nasa.gov/apod/image/0805/m81deep_gallego.jpg
+2008-05-13,Ancient Craters of Southern Rhea,image,https://apod.nasa.gov/apod/image/0805/rhea4_cassini.jpg
+2008-05-14,A Supply Ship Docks with the International Space Station,image,https://apod.nasa.gov/apod/image/0805/soyuzdock_iss16.jpg
+2008-05-15,Sideways Galaxy NGC 3628,image,https://apod.nasa.gov/apod/image/0805/ngc3628crop_quattrocchi_alt800.jpg
+2008-05-16,Circles in the Sky,image,https://apod.nasa.gov/apod/image/0805/halo7_051008_r90_w525.jpg
+2008-05-17,Logarithmic Spirals,image,https://apod.nasa.gov/apod/image/0805/NaturalSpiralsS.jpg
+2008-05-18,On the Origin of Gold,image,https://apod.nasa.gov/apod/image/0805/nsmerger_heasarc.jpg
+2008-05-19,Flying Over the Columbia Hills of Mars,image,https://apod.nasa.gov/apod/image/0805/surfacefly_spirit.jpg
+2008-05-20,The Perseus Cluster of Galaxies,image,https://apod.nasa.gov/apod/image/0805/perseus_cfht.jpg
+2008-10-12,Spiral Galaxy NGC 3370 from Hubble,image,https://apod.nasa.gov/apod/image/0810/ngc3370_hst.jpg
+2008-10-13,Cassini Passes Through Ice Plumes of Enceladus,image,https://apod.nasa.gov/apod/image/0810/enceladus9_cassini.jpg
+2008-10-14,An Enceladus Tiger Stripe from Cassini,image,https://apod.nasa.gov/apod/image/0810/enceladus8_cassini.jpg
+2008-10-15,Camera Orion,image,https://apod.nasa.gov/apod/image/0810/orion_gauvreau.jpg
+2012-12-12,Milky Way Over Quiver Tree Forest,image,https://apod.nasa.gov/apod/image/1212/quivertrees_breuer_960.jpg
+2012-12-13,Apollo 17: A Stereo View from Lunar Orbit,image,https://apod.nasa.gov/apod/image/1212/22466-22467anaVantuyne900.jpg
+2012-12-14,Umbra World,image,https://apod.nasa.gov/apod/image/1212/UmbraWorldMammanaTSE2012.jpg
+2012-12-15,When Gemini Sends Stars to Paranal,image,https://apod.nasa.gov/apod/image/1212/SGU-Paranal-Geminids-900x600-cp10.jpg
+2012-12-16,MWC 922: The Red Square Nebula,image,https://apod.nasa.gov/apod/image/1212/redsquare_tuthill_960.jpg
+2012-12-17,NGC 922: Collisional Ring Galaxy,image,https://apod.nasa.gov/apod/image/1212/ngc922_hst_960.jpg
+2012-12-18,A Sun Pillar Over Sweden,image,https://apod.nasa.gov/apod/image/1212/sunpillar_strand_960.jpg
+2012-12-19,NGC 5189: An Unusually Complex Planetary Nebula,image,https://apod.nasa.gov/apod/image/1212/ngc5189_hst_960.jpg
+2012-12-20,M33: Triangulum Galaxy,image,https://apod.nasa.gov/apod/image/1212/M33-Subaru-Gendler-S950.jpg

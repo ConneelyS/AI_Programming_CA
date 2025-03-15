@@ -97,9 +97,12 @@ def read_apod_data(json_filename="apod_data.json"):
             # Creates a list to store json
             data = json.load(file)
 
+        # This code was originally uncommented but because read_apod_data() was
+        # being called twice content of the json file was being printed out twice.
+        # Decided to add the code to print the contents of json file in other method.
             # Print the contents of json file to console
-            for entry in data:
-                print(f"Date: {entry['date']}, Title: {entry['title']}\nDataType: {type(entry)}")
+            # for entry in data:
+            #     print(f"Date: {entry['date']}, Title: {entry['title']}")
 
             # Expected data flow
             return data
@@ -114,6 +117,11 @@ def read_apod_data(json_filename="apod_data.json"):
 
         # Returns empty list to the analyze_apod_media() if exception is thrown
     return []
+
+def print_json_content():
+    json_file_content_data = read_apod_data()
+    for entry in json_file_content_data:
+            print(f"Date: {entry['date']}, Title: {entry['title']}")
 
 def analyze_apod_media(json_filename="apod_data.json"):
     data = read_apod_data(json_filename)
@@ -163,28 +171,65 @@ def write_csv(json_filename="apod_data.json", csv_file="apod_summary.csv"):
     except IOError as csvWriteError:
         print(f"Error writing to CSV file: {csvWriteError}")
 
-if __name__ == "__main__":
+# Adding a check function to make sure date range is correct
+def check_valid_dates(dates):
+    # Taking the 
+    try:
+        date_input = pd.to_datetime(dates, format = "%Y-%m-%d", errors = 'coerce')
+
+        # Creating a date range for valid dates according to the APOD data
+        first_apod_date = pd.Timestamp("1995-06-16") # First date available from APOD
+        today_date = pd.Timestamp.today() # Setting today as the newest date that can be called
+
+        if not (first_apod_date <= date_input <= today_date):
+            print(f"{dates} is not within expected date range ({first_apod_date.date()} - {today_date.date()})")
+            return None
+        
+        return date_input.strftime("%Y-%m-%d") # Returns the expected
+    
+    except Exception as time_error:
+        print(f"Error while checking valid dates {dates}: {time_error}")
+        return None
+
+def main():
     # Setting some constants for the script.
     # Editing the date range here will allow for API to call different dates
     API_KEY = os.getenv("NASA_API_KEY")
-    START_DATE = "2020-01-01"
-    END_DATE = "2020-01-10"
+    START_DATE = "2012-12-12"
+    END_DATE = "2012-12-20"
 
     # Error is API key isn't found
     if not API_KEY:
         raise ValueError("NASA API Key not set up as environment variable")
+    
+    # Variables for date range checker method
+    # Passing constant values to date checker
+    start_date = check_valid_dates(START_DATE)
+    end_date = check_valid_dates(END_DATE)
+
+    if not start_date or not end_date:
+        print("The selected dates are invalid")
+        return
+    
+    # valid_date_range = pd.date_range(start_date, end_date)
+    if start_date > end_date:
+        print("The START_DATE entered must be before END_DATE")
+        return
 
 ### Calling of each method is done below ### 
 
-    # fetch_multiple_apod_data(API_KEY, START_DATE, END_DATE)
-    # analyze_apod_media()
-    # write_csv()
+    fetch_multiple_apod_data(API_KEY, START_DATE, END_DATE)
+    print_json_content()
+    analyze_apod_media()
+    write_csv()
     
-    ##### Testing API Call ##### 
+##### Testing API Call ##### 
     # get_apod_data(API_KEY, START_DATE)
     # fetch_multiple_apod_data(API_KEY, START_DATE, END_DATE)
     # read_apod_data(json_filename="apod_data.json")
     # analyze_apod_media()
     # write_csv()
     # print(API_KEY)
-    
+
+if __name__ == "__main__":
+    main()
